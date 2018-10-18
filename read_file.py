@@ -1,0 +1,5 @@
+f = open('/home/gad/wd/projects/analysts/PPP_01.02.2018.csv', 'r')
+list_of_rows = f.readlines()
+f2 = open('write.txt', 'w')
+f2.write('One\trow\n')
+f2.writelines(list_of_rows)
