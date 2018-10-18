@@ -1,0 +1,433 @@
+<SEC-DOCUMENT>0001437749-17-004089.txt : 20170309
+<SEC-HEADER>0001437749-17-004089.hdr.sgml : 20170309
+<ACCEPTANCE-DATETIME>20170309091327
+ACCESSION NUMBER:		0001437749-17-004089
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20170309
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20170309
+DATE AS OF CHANGE:		20170309
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BASSETT FURNITURE INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000010329
+		STANDARD INDUSTRIAL CLASSIFICATION:	WOOD HOUSEHOLD FURNITURE, (NO UPHOLSTERED) [2511]
+		IRS NUMBER:				540135270
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1126
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-00209
+		FILM NUMBER:		17676984
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PO BOX 626
+		CITY:			BASSETT
+		STATE:			VA
+		ZIP:			24055
+		BUSINESS PHONE:		5406296209
+
+	MAIL ADDRESS:	
+		STREET 1:		MAIN ST
+		STREET 2:		P O BOX 626
+		CITY:			BASSETT
+		STATE:			VA
+		ZIP:			24055
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>bset20170308_8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD><TITLE>bset20170308_8k.htm</TITLE>
+<!-- Created by RDG HTML Converter -->
+</HEAD>
+<BODY style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px">
+<HR style="BORDER-TOP: medium none; HEIGHT: 2px; BORDER-RIGHT: medium none; WIDTH: 100%; BORDER-BOTTOM: medium none; COLOR: #000000;  BORDER-LEFT: medium none; BACKGROUND-COLOR: #000000" align="center">
+
+<P id=PARA1 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT><FONT style="FONT-SIZE: 18pt; FONT-FAMILY: Times New Roman, Times, serif"><B>UNITED STATES </B></FONT></P>
+<P id=PARA4 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 18pt; FONT-FAMILY: Times New Roman, Times, serif"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P>
+<P id=PARA5 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>WASHINGTON, D.C. 20549</B></FONT></P>
+<P id=PARA6 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT></P>
+<HR style="BORDER-TOP: medium none; HEIGHT: 1px; BORDER-RIGHT: medium none; WIDTH: 20%; BORDER-BOTTOM: medium none; COLOR: #000000;  BORDER-LEFT: medium none; BACKGROUND-COLOR: #000000" align="center">
+
+<P id=PARA8 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA9 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 18pt; FONT-FAMILY: Times New Roman, Times, serif"><B>FORM 8-K </B></FONT></P>
+<P id=PARA10 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<HR style="BORDER-TOP: medium none; HEIGHT: 1px; BORDER-RIGHT: medium none; WIDTH: 20%; BORDER-BOTTOM: medium none; COLOR: #000000;  BORDER-LEFT: medium none; BACKGROUND-COLOR: #000000" align="center">
+
+<P id=PARA11 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA13 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>CURRENT REPORT </B></FONT></P>
+<P id=PARA14 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA15 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>PURSUANT TO SECTION 13 OR 15(d) OF THE </B></FONT></P>
+<P id=PARA16 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>SECURITIES EXCHANGE ACT OF 1934 </B></FONT></P>
+<P id=PARA17 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA18 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Date of Report (Date of earliest event reported) March 9, 2017</B></FONT></P>
+<P id=PARA19 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT></P>
+<HR style="BORDER-TOP: medium none; HEIGHT: 1px; BORDER-RIGHT: medium none; WIDTH: 20%; BORDER-BOTTOM: medium none; COLOR: #000000;  BORDER-LEFT: medium none; BACKGROUND-COLOR: #000000" align="center">
+
+<P id=PARA21 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA22 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 18pt; FONT-FAMILY: Times New Roman, Times, serif"><B>BASSETT FURNITURE INDUSTRIES, INCORPORATED </B></FONT></P>
+<P id=PARA23 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>(Exact name of registrant as specified in its charter) </B></FONT></P>
+<P id=PARA24 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT></P>
+<HR style="BORDER-TOP: medium none; HEIGHT: 1px; BORDER-RIGHT: medium none; WIDTH: 20%; BORDER-BOTTOM: medium none; COLOR: #000000;  BORDER-LEFT: medium none; BACKGROUND-COLOR: #000000" align="center">
+
+<P id=PARA26 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL39  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 33%; VERTICAL-ALIGN: top">
+<P id=PARA27 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>VIRGINIA</B></FONT></P></TD>
+<TD style="WIDTH: 2%; VERTICAL-ALIGN: bottom">
+<P id=PARA28 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 31%; VERTICAL-ALIGN: top">
+<P id=PARA29 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>0-209</B></FONT></P></TD>
+<TD style="WIDTH: 2%; VERTICAL-ALIGN: bottom">
+<P id=PARA30 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 32%; VERTICAL-ALIGN: top">
+<P id=PARA31 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>54-0135270</B></FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 33%; VERTICAL-ALIGN: top">
+<P id=PARA32 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>(State or other jurisdiction of</B></FONT></P>
+<P id=PARA33 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>incorporation or organization)</B></FONT></P></TD>
+<TD style="WIDTH: 2%; VERTICAL-ALIGN: bottom">
+<P id=PARA34 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 31%; VERTICAL-ALIGN: top">
+<P id=PARA35 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>(Commission File No.)</B></FONT></P></TD>
+<TD style="WIDTH: 2%; VERTICAL-ALIGN: bottom">
+<P id=PARA36 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 32%; VERTICAL-ALIGN: top">
+<P id=PARA37 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>(I.R.S. Employer</B></FONT></P>
+<P id=PARA38 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Identification No.)</B></FONT></P></TD></TR></TABLE>
+<P id=PARA40 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL48  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 48%; VERTICAL-ALIGN: top">
+<P id=PARA41 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>3525 FAIRYSTONE PARK HIGHWAY</B></FONT></P>
+<P id=PARA42 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>BASSETT, VIRGINIA</B></FONT></P></TD>
+<TD style="WIDTH: 5%; VERTICAL-ALIGN: bottom">
+<P id=PARA43 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 47%; VERTICAL-ALIGN: bottom">
+<P id=PARA44 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>24055</B></FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 48%; VERTICAL-ALIGN: top">
+<P id=PARA45 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>(Address of principal executive offices)</B></FONT></P></TD>
+<TD style="WIDTH: 5%; VERTICAL-ALIGN: bottom">
+<P id=PARA46 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 47%; VERTICAL-ALIGN: top">
+<P id=PARA47 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>(Zip Code)</B></FONT></P></TD></TR></TABLE>
+<P id=PARA49 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA50 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Registrant&#8217;s telephone number, including area code 276/629-6000 </B></FONT></P>
+<P id=PARA51 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;</FONT></P>
+<P id=PARA52 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>(Former name or former address, if changed since last report) </B></FONT></P>
+<P id=PARA53 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA54 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2 below): </FONT></P>
+<P id=PARA55 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL58  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 4%; VERTICAL-ALIGN: top">
+<P id=PARA56 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9744;</FONT></P></TD>
+<TD style="WIDTH: 96%; VERTICAL-ALIGN: top">
+<P id=PARA57 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></P></TD></TR></TABLE>
+<P id=PARA59 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL62  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 4%; VERTICAL-ALIGN: top">
+<P id=PARA60 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9744;</FONT></P></TD>
+<TD style="WIDTH: 96%; VERTICAL-ALIGN: top">
+<P id=PARA61 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></P></TD></TR></TABLE>
+<P id=PARA63 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL66  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 4%; VERTICAL-ALIGN: top">
+<P id=PARA64 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9744;</FONT></P></TD>
+<TD style="WIDTH: 96%; VERTICAL-ALIGN: top">
+<P id=PARA65 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></P></TD></TR></TABLE>
+<P id=PARA67 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL70  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 4%; VERTICAL-ALIGN: top">
+<P id=PARA68 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9744;</FONT></P></TD>
+<TD style="WIDTH: 96%; VERTICAL-ALIGN: top">
+<P id=PARA69 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></P></TD></TR></TABLE>
+<HR style="BORDER-TOP: medium none; HEIGHT: 2px; BORDER-RIGHT: medium none; WIDTH: 100%; BORDER-BOTTOM: medium none; COLOR: #000000;  BORDER-LEFT: medium none; BACKGROUND-COLOR: #000000" align="center">
+
+<P id=PARA150.1 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P>
+<DIV id=PGBK150  style="WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<DIV id=PGFTR150  style="WIDTH: 100%; TEXT-ALIGN: center">&nbsp;</DIV>
+<DIV id=PGNUM150  style="FONT-SIZE: 10pt; WIDTH: 100%; TEXT-ALIGN: center">&nbsp;</DIV>
+<HR style="HEIGHT: 2px; WIDTH: 100%; PAGE-BREAK-AFTER: always; COLOR: #000000" noShade>
+
+<DIV id=PGHDR150  style="WIDTH: 100%; TEXT-ALIGN: left">&nbsp;</DIV></DIV>
+<P id=PARA150.2 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT><FONT style="FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL79  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 10%; VERTICAL-ALIGN: top">
+<P id=PARA77 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Item&nbsp;8.01 </FONT></P></TD>
+<TD style="WIDTH: 90%; VERTICAL-ALIGN: top">
+<P id=PARA78 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Other Events</FONT></P></TD></TR></TABLE>
+<P id=PARA81 style="MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA80 style="TEXT-ALIGN: justify; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">On March 9, 2017 Bassett Furniture Industries issued a news release relating to the declaration of a regular quarterly dividend of $0.10 per share of outstanding common stock payable on May 26, 2017 to shareholders of record at the close of business on May 12, 2017. A copy of the news release is attached to the report as Exhibit 99.</FONT></P>
+<P id=PARA82 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;</FONT></P>
+<TABLE id=TBL85  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 10%; VERTICAL-ALIGN: top">
+<P id=PARA83 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Item&nbsp;9.01. </FONT></P></TD>
+<TD style="WIDTH: 90%; VERTICAL-ALIGN: top">
+<P id=PARA84 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Financial Statements and Exhibits </FONT></P></TD></TR></TABLE>
+<P id=PARA86 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA87 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Exhibit 99&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;News release issued by Bassett Furniture Industries, Inc. on March 9, 2017</FONT></P>
+<P id=PARA88.1 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P>
+<DIV id=PGBK88  style="WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<DIV id=PGFTR88  style="WIDTH: 100%; TEXT-ALIGN: center">&nbsp;</DIV>
+<DIV id=PGNUM88  style="FONT-SIZE: 10pt; WIDTH: 100%; TEXT-ALIGN: center">&nbsp;</DIV>
+<HR style="HEIGHT: 2px; WIDTH: 100%; PAGE-BREAK-AFTER: always; COLOR: #000000" noShade>
+
+<DIV id=PGHDR88  style="WIDTH: 100%; TEXT-ALIGN: left">&nbsp;</DIV></DIV>
+<P id=PARA88.2 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA90 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Signatures</FONT></P>
+<P id=PARA91 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA92 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 36pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</FONT></P>
+<P id=PARA93 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL151  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD vAlign=top width="50%">
+<P id=PARA151.4 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=top width="3%">
+<P id=PARA151.5 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=top width="35%">
+<P id=PARA151.6 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">BASSETT FURNITURE INDUSTRIES, INCORPORATED</FONT></P></TD>
+<TD vAlign=top width="12%">
+<P id=PARA151.7 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD vAlign=top width="50%">&nbsp;</TD>
+<TD vAlign=top width="3%">&nbsp;</TD>
+<TD vAlign=top width="35%">&nbsp;</TD>
+<TD vAlign=top width="12%">&nbsp;</TD></TR>
+<TR>
+<TD vAlign=top width="50%">
+<P id=PARA151.8 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=top width="3%">
+<P id=PARA151.9 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=bottom width="35%" noWrap align=left>
+<P id=PARA151.10 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=top width="12%">
+<P id=PARA151.11 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="TEXT-ALIGN: left" vAlign=top width="50%" align=left>
+<P id=PARA151.12 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">March 9, 2017</FONT></P></TD>
+<TD style="TEXT-ALIGN: left" vAlign=top width="3%">
+<P id=PARA151.13 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">By: </FONT></P></TD>
+<TD style="BORDER-BOTTOM: #000000 1px solid" vAlign=top width="35%" noWrap align=left>
+<P id=PARA151.14 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">/s/&nbsp;</FONT>J. Michael Daniel</P></TD>
+<TD vAlign=top width="12%">
+<P id=PARA151.15 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD vAlign=top width="50%">
+<P id=PARA151.16 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=top width="3%">
+<P id=PARA151.17 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=top width="35%">
+<P id=PARA151.18 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">J. Michael Daniel</FONT></P></TD>
+<TD vAlign=top width="12%">
+<P id=PARA151.19 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD vAlign=top width="50%">
+<P id=PARA151.20 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=top width="3%">
+<P id=PARA151.21 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=top width="35%">
+<P id=PARA151.22 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Title:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senior Vice President &#8211; Chief Financial Officer</FONT></P></TD>
+<TD vAlign=top width="12%">
+<P id=PARA151.23 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD></TR></TABLE>
+<P id=PARA113.1 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P>
+<DIV id=PGBK113  style="WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<DIV id=PGFTR113  style="WIDTH: 100%; TEXT-ALIGN: center">&nbsp;</DIV>
+<DIV id=PGNUM113  style="FONT-SIZE: 10pt; WIDTH: 100%; TEXT-ALIGN: center">&nbsp;</DIV>
+<HR style="HEIGHT: 2px; WIDTH: 100%; PAGE-BREAK-AFTER: always; COLOR: #000000" noShade>
+
+<DIV id=PGHDR113  style="WIDTH: 100%; TEXT-ALIGN: left">&nbsp;</DIV></DIV>
+<P id=PARA113.2 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P>
+<P id=PARA114 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">EXHIBIT INDEX</FONT></P>
+<P id=PARA115 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA116 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Description</FONT></P>
+<P id=PARA117 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA118 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Exhibit No. 99&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;News release issued by Bassett Furniture Industries on March 9, 2017.</FONT></P>
+<P id=PARA119 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P>
+<P id=PARA121 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 22.5pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA122 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 22.5pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT>&nbsp;</P></BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>ex99.htm
+<DESCRIPTION>EXHIBIT 99
+<TEXT>
+<HTML><HEAD><TITLE>ex99.htm</TITLE>
+<!-- Created by RDG HTML Converter -->
+</HEAD>
+<BODY>
+<P id=PARA122 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 22.5pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT>&nbsp;</P>
+<P id=PARA123 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Exhibit 99</FONT></P>
+<P id=PARA124 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 22.5pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA125 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 22.5pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA126 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><IMG style="HEIGHT: 32pt; WIDTH: 98pt" src="bset20170308_8kimg001.jpg"></FONT></P>
+<P id=PARA127 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0>
+
+<TR>
+<TD style="WIDTH: 65%">
+<P id=PARA1 style="MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt">Bassett Furniture Industries, Inc.</P></TD>
+<TD style="WIDTH: 35%">
+<P id=PARA2 style="MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt"><B>J. Michael Daniel, Senior Vice</B></P></TD></TR>
+<TR>
+<TD style="WIDTH: 65%">
+<P id=PARA3 style="MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt">P.O. Box 626</P></TD>
+<TD style="WIDTH: 35%">
+<P id=PARA4 style="MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt"><B>President and Chief Financial</B></P></TD></TR>
+<TR>
+<TD style="WIDTH: 65%">
+<P id=PARA5 style="MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt">Bassett, VA 24055</P></TD>
+<TD style="WIDTH: 35%">
+<P id=PARA6 style="MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt"><B>Officer</B> </P></TD></TR>
+<TR>
+<TD style="WIDTH: 65%">
+<P id=PARA7 style="MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt">&nbsp;</P></TD>
+<TD style="WIDTH: 35%">
+<P id=PARA8 style="MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt">(276) 629-6614 - Investors</P></TD></TR>
+<TR>
+<TD style="WIDTH: 65%">
+<P id=PARA9 style="MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt">&nbsp;</P></TD>
+<TD style="WIDTH: 35%">
+<P id=PARA10 style="MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt">&nbsp;</P></TD></TR>
+<TR>
+<TD style="WIDTH: 65%">&nbsp;</TD>
+<TD style="WIDTH: 35%"><B>Jay S. Moore, Director of </B></TD></TR>
+<TR>
+<TD style="WIDTH: 65%">&nbsp;</TD>
+<TD style="WIDTH: 35%"><B>Communications</B></TD></TR>
+<TR>
+<TD style="WIDTH: 65%">For Immediate Release</TD>
+<TD style="WIDTH: 35%">(276) 629-6450 &#8211; Media</TD></TR></TABLE>
+<P id=PARA128 style="TEXT-ALIGN: left; MARGIN: 0pt 0pt 0pt 65.5%; LINE-HEIGHT: 1.25; TEXT-INDENT: -324pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B> </B></FONT></P>
+<P id=PARA129 style="TEXT-ALIGN: left; MARGIN: 0pt 0pt 0pt 65.5%; LINE-HEIGHT: 1.25; TEXT-INDENT: -324pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT>&nbsp;</P>
+<P id=PARA139 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 18pt; FONT-FAMILY: Times New Roman, Times, serif">Bassett Furniture News Release</FONT></P>
+<P id=PARA140 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Bassett Declares Quarterly Dividend </B></FONT></P>
+<HR style="BORDER-TOP: medium none; HEIGHT: 2px; BORDER-RIGHT: medium none; WIDTH: 100%; BORDER-BOTTOM: medium none; COLOR: #000000;  BORDER-LEFT: medium none; BACKGROUND-COLOR: #000000" align="center">
+
+<P id=PARA142 style="MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA141 style="TEXT-ALIGN: justify; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">(Bassett, Va.) &#8211; March 9, 2017&#8211; Bassett Furniture Industries, Inc. (Nasdaq: BSET) announced today that its Board of Directors has declared a dividend of $0.10 per share of outstanding common stock payable on May 26, 2017 to shareholders of record at the close of business on May 12, 2017.</FONT></P>
+<P id=PARA143 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA144 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA145 style="TEXT-ALIGN: justify; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Bassett Furniture Industries, Inc. (NASDAQ:BSET), is a leading manufacturer and marketer of high quality, mid-priced home furnishings. With 89 company- and licensee-owned stores, Bassett has leveraged its strong brand name in furniture into a network of corporate and licensed stores that focus on providing consumers with a friendly environment for buying furniture and accessories. The most significant growth opportunity for Bassett continues to be the Company&#8217;s dedicated retail store program. Bassett&#8217;s retail strategy includes affordable custom-built furniture that is ready for delivery in the home within 30 days. The stores also feature the latest on-trend furniture styles, free in-home design visits, and coordinated decorating accessories. Bassett also has a traditional wholesale business with more than 700 accounts on the open market, across the United States and internationally. For more information, visit the Company&#8217;s website at bassettfurniture.com. (BSET-E)</FONT></P>
+<P id=PARA146 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA147 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">###</FONT></P>
+<P id=PARA148 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA149 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>bset20170308_8kimg001.jpg
+<TEXT>
+begin 644 bset20170308_8kimg001.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  4$! 0$ P4$! 0&!04&" T(" <'
+M"! +# D-$Q 4$Q(0$A(4%QT9%!8<%A(2&B,:'!X?(2$A%!DD)R0@)AT@(2#_
+MVP!# 04&!@@'" \(" \@%1(5(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @("#_P  1"  K (,# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P"?]H+P]H_A
+MSQ]I\>AZ?#I\-U8"62*W78A<2,-V!P.,=/2O3/AE\*? 7B7X1Z+J>KZ"LU_>
+M0NTMRLTBN3O8 C#8' ':N'_:=_Y*!HG_ &#3_P"C6K5\&_%;Q)X5^$>EV.G?
+M#?5=1BM8'":EAOLS_.QW?*I.!G'7MUKSUR1JRYEH;ZN*L>1Z\NI_#7XFZI:Z
+M#JMQ%-I-T1#.KX+I@, X'#9! (Z'FON[3[A[S2[2[DC\MYH4D9/[I*@D5\D?
+M#W3O OC#QU_PD'COQE!-JU[=?:/[,,#PQ2RDY"M(PVD9P @ZX R:]U^(U]X_
+MN=?T;PAX&:/3O[2AFFN=6DB+BV5,?*#@@$YX[^F.35T/=3ET%/6R/2Z*^/\
+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
+MPG@J./3?AC<ZA8QI#="T'[T*"3Y<(V9SUQ[U>UZ>6R^*/AV2U;RWO+:6WF.
+M=Z+)&0.>G+'I@_D*7/[J86U.J_MC2O[8_L?^T;?^T=N_[-Y@\S&,_=Z].?IS
+M52?Q5X9M;V2RN-?T^*YC8(\3W"AE8D  C/!Y'YBN'#M_PN8Z;G_1?[0^V[/^
+LFWV';NSUZ<8SCVJGJUK;L^OLT2D^3K+9[Y(M_P#"I=1V8^4]=HHHK<@__]D!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

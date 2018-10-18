@@ -1,0 +1,453 @@
+<SEC-DOCUMENT>0001437749-17-000730.txt : 20170117
+<SEC-HEADER>0001437749-17-000730.hdr.sgml : 20170117
+<ACCEPTANCE-DATETIME>20170117163212
+ACCESSION NUMBER:		0001437749-17-000730
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20170111
+ITEM INFORMATION:		Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20170117
+DATE AS OF CHANGE:		20170117
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BASSETT FURNITURE INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000010329
+		STANDARD INDUSTRIAL CLASSIFICATION:	WOOD HOUSEHOLD FURNITURE, (NO UPHOLSTERED) [2511]
+		IRS NUMBER:				540135270
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1126
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-00209
+		FILM NUMBER:		17531062
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PO BOX 626
+		CITY:			BASSETT
+		STATE:			VA
+		ZIP:			24055
+		BUSINESS PHONE:		5406296209
+
+	MAIL ADDRESS:	
+		STREET 1:		MAIN ST
+		STREET 2:		P O BOX 626
+		CITY:			BASSETT
+		STATE:			VA
+		ZIP:			24055
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>bset20170117_8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD><TITLE>bset20170117_8k.htm</TITLE>
+<!-- Created by RDG HTML Converter -->
+</HEAD>
+<BODY style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px">
+<P id=PARA1 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT>&nbsp;</P>
+<HR style="MARGIN-BOTTOM: 2px; BORDER-TOP: medium none; HEIGHT: 3px; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; COLOR: #000000; BORDER-LEFT: medium none; MARGIN-TOP: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000">
+
+<HR style="BORDER-TOP: medium none; HEIGHT: 1px; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; POSITION: relative; COLOR: #000000; BORDER-LEFT: medium none; MARGIN-TOP: 0px; TOP: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000">
+
+<P id=PARA2 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA3 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 18pt; FONT-FAMILY: Times New Roman, Times, serif"><B>UNITED STATES </B></FONT></P>
+<P id=PARA4 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 18pt; FONT-FAMILY: Times New Roman, Times, serif"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P>
+<P id=PARA5 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>WASHINGTON, D.C. 20549</B></FONT></P>
+<P id=PARA6 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA7 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">
+<HR style="BORDER-TOP: medium none; HEIGHT: 1px; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; COLOR: #000000;  BORDER-LEFT: medium none; WIDTH: 15%; BACKGROUND-COLOR: #000000" align="center">
+</FONT></P>
+<P id=PARA8 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA9 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 18pt; FONT-FAMILY: Times New Roman, Times, serif"><B>FORM 8-K </B></FONT></P>
+<P id=PARA10 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA11 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">
+<HR style="BORDER-TOP: medium none; HEIGHT: 1px; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; COLOR: #000000;  BORDER-LEFT: medium none; WIDTH: 15%; BACKGROUND-COLOR: #000000" align="center">
+</FONT></P>
+<P id=PARA12 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA13 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>CURRENT REPORT </B></FONT></P>
+<P id=PARA14 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA15 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>PURSUANT TO SECTION 13 OR 15(d) OF THE </B></FONT></P>
+<P id=PARA16 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>SECURITIES EXCHANGE ACT OF 1934 </B></FONT></P>
+<P id=PARA17 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA18 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Date of Report (Date of earliest event reported) January 11, 2017</B></FONT></P>
+<P id=PARA19 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA20 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">
+<HR style="BORDER-TOP: medium none; HEIGHT: 1px; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; COLOR: #000000;  BORDER-LEFT: medium none; WIDTH: 15%; BACKGROUND-COLOR: #000000" align="center">
+</FONT></P>
+<P id=PARA21 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA22 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 18pt; FONT-FAMILY: Times New Roman, Times, serif"><B>BASSETT FURNITURE INDUSTRIES, INCORPORATED </B></FONT></P>
+<P id=PARA23 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>(Exact name of registrant as specified in its charter) </B></FONT></P>
+<P id=PARA24 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA25 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">
+<HR style="BORDER-TOP: medium none; HEIGHT: 1px; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; COLOR: #000000;  BORDER-LEFT: medium none; WIDTH: 15%; BACKGROUND-COLOR: #000000" align="center">
+</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL39  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="VERTICAL-ALIGN: middle; WIDTH: 32%">&nbsp; </TD>
+<TD style="VERTICAL-ALIGN: bottom; WIDTH: 2%">&nbsp; </TD>
+<TD style="VERTICAL-ALIGN: middle; WIDTH: 32%">&nbsp; </TD>
+<TD style="VERTICAL-ALIGN: bottom; WIDTH: 2%">&nbsp; </TD>
+<TD style="VERTICAL-ALIGN: middle; WIDTH: 32%">&nbsp; </TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top; WIDTH: 32%">
+<P id=PARA27 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>VIRGINIA</B></FONT></P></TD>
+<TD style="VERTICAL-ALIGN: bottom; WIDTH: 2%">
+<P id=PARA28 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="VERTICAL-ALIGN: top; WIDTH: 32%">
+<P id=PARA29 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>0-209</B></FONT></P></TD>
+<TD style="VERTICAL-ALIGN: bottom; WIDTH: 2%">
+<P id=PARA30 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="VERTICAL-ALIGN: top; WIDTH: 32%">
+<P id=PARA31 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>54-0135270</B></FONT></P></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top; WIDTH: 32%">
+<P id=PARA32 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>(State or other jurisdiction of</B></FONT></P>
+<P id=PARA33 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>incorporation or organization)</B></FONT></P></TD>
+<TD style="VERTICAL-ALIGN: bottom; WIDTH: 2%">
+<P id=PARA34 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="VERTICAL-ALIGN: top; WIDTH: 32%">
+<P id=PARA35 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>(Commission File No.)</B></FONT></P></TD>
+<TD style="VERTICAL-ALIGN: bottom; WIDTH: 2%">
+<P id=PARA36 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="VERTICAL-ALIGN: top; WIDTH: 32%">
+<P id=PARA37 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>(I.R.S. Employer</B></FONT></P>
+<P id=PARA38 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Identification No.)</B></FONT></P></TD></TR></TABLE>
+<P id=PARA40 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL48  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="VERTICAL-ALIGN: middle; WIDTH: 48%">&nbsp; </TD>
+<TD style="VERTICAL-ALIGN: bottom; WIDTH: 4%">&nbsp; </TD>
+<TD style="VERTICAL-ALIGN: middle; WIDTH: 48%">&nbsp; </TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top; WIDTH: 48%">
+<P id=PARA41 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>3525 FAIRYSTONE PARK HIGHWAY</B></FONT></P>
+<P id=PARA42 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>BASSETT, VIRGINIA</B></FONT></P></TD>
+<TD style="VERTICAL-ALIGN: bottom; WIDTH: 4%">
+<P id=PARA43 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="VERTICAL-ALIGN: bottom; WIDTH: 48%">
+<P id=PARA44 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>24055</B></FONT></P></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top; WIDTH: 48%">
+<P id=PARA45 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>(Address of principal executive offices)</B></FONT></P></TD>
+<TD style="VERTICAL-ALIGN: bottom; WIDTH: 4%">
+<P id=PARA46 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="VERTICAL-ALIGN: top; WIDTH: 48%">
+<P id=PARA47 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>(Zip Code)</B></FONT></P></TD></TR></TABLE>
+<P id=PARA49 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA50 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Registrant&#8217;s telephone number, including area code 276/629-6000 </B></FONT></P>
+<P id=PARA51 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;</FONT></P>
+<P id=PARA52 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>(Former name or former address, if changed since last report) </B></FONT></P>
+<P id=PARA53 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA54 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2 below): </FONT></P>
+<P id=PARA55 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL58  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="VERTICAL-ALIGN: top; WIDTH: 4%">
+<P id=PARA56 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9744;</FONT></P></TD>
+<TD style="VERTICAL-ALIGN: top; WIDTH: 96%">
+<P id=PARA57 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></P></TD></TR></TABLE>
+<P id=PARA59 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL62  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="VERTICAL-ALIGN: top; WIDTH: 4%">
+<P id=PARA60 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9744;</FONT></P></TD>
+<TD style="VERTICAL-ALIGN: top; WIDTH: 96%">
+<P id=PARA61 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></P></TD></TR></TABLE>
+<P id=PARA63 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL66  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="VERTICAL-ALIGN: top; WIDTH: 4%">
+<P id=PARA64 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9744;</FONT></P></TD>
+<TD style="VERTICAL-ALIGN: top; WIDTH: 96%">
+<P id=PARA65 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></P></TD></TR></TABLE>
+<P id=PARA67 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL70  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="VERTICAL-ALIGN: top; WIDTH: 4%">
+<P id=PARA68 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9744;</FONT></P></TD>
+<TD style="VERTICAL-ALIGN: top; WIDTH: 96%">
+<P id=PARA69 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></P></TD></TR></TABLE>
+<P id=PARA71 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT>&nbsp;</P>
+<HR style="MARGIN-BOTTOM: 2px; BORDER-TOP: medium none; HEIGHT: 1px; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; COLOR: #000000; BORDER-LEFT: medium none; MARGIN-TOP: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000">
+
+<HR style="MARGIN-BOTTOM: 0px; BORDER-TOP: medium none; HEIGHT: 3px; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; POSITION: relative; COLOR: #000000; BORDER-LEFT: medium none; MARGIN-TOP: 0px; TOP: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000">
+
+<P id=PARA73 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P>
+<DIV id=PGBK299  style="MARGIN-LEFT: 0pt; WIDTH: 100%; MARGIN-RIGHT: 0pt">
+<DIV id=PGFTR299  style="TEXT-ALIGN: center; WIDTH: 100%">&nbsp;</DIV>
+<DIV id=PGNUM299  style="FONT-SIZE: 10pt; TEXT-ALIGN: center; WIDTH: 100%">&nbsp;</DIV>
+<HR style="HEIGHT: 2px; PAGE-BREAK-AFTER: always; COLOR: #000000; WIDTH: 100%" noShade>
+
+<DIV id=PGHDR299  style="TEXT-ALIGN: left; WIDTH: 100%">&nbsp;</DIV></DIV>
+<P id=PARA299.2 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"></FONT>
+<P id=PARA78 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT></P><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT>
+<P></P>
+<P id=PARA79 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; BACKGROUND-COLOR: #ffffff"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Item 5.03. Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year</FONT></P>
+<P id=PARA81 style="MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA82 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; BACKGROUND-COLOR: #ffffff"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">(a) Amendment to Bylaws:</FONT></P>
+<P id=PARA83 style="MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA84 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; BACKGROUND-COLOR: #ffffff"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">The Board of Directors resolved on January 11, 2017, to amend Article III, Section 2 of the Company&#8217;s By-laws, effective as of the 2017 Annual Meeting of Shareholders, to decrease the number of directors from eleven to eight.&nbsp;</FONT></P>
+<P id=PARA85 style="MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA86 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; BACKGROUND-COLOR: #ffffff"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Item 9.01(d).&nbsp; Exhibits</FONT></P>
+<P id=PARA87 style="MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA89 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Exhibit 3. By-Laws of Bassett Furniture Industries, Inc.</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA101.1 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P>
+<DIV id=PGBK101  style="MARGIN-LEFT: 0pt; WIDTH: 100%; MARGIN-RIGHT: 0pt">
+<DIV id=PGFTR101  style="TEXT-ALIGN: center; WIDTH: 100%">&nbsp;</DIV>
+<DIV id=PGNUM101  style="FONT-SIZE: 10pt; TEXT-ALIGN: center; WIDTH: 100%">&nbsp;</DIV>
+<HR style="HEIGHT: 2px; PAGE-BREAK-AFTER: always; COLOR: #000000; WIDTH: 100%" noShade>
+
+<DIV id=PGHDR101  style="TEXT-ALIGN: left; WIDTH: 100%">&nbsp;</DIV></DIV>
+<P id=PARA101.2 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA103 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Signatures</FONT></P>
+<P id=PARA104 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA105 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 36pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</FONT></P>
+<P id=PARA106 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL300  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD vAlign=top width="50%">
+<P id=PARA300.1 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=top width="38%" colSpan=2>
+<P id=PARA300.2 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">BASSETT FURNITURE INDUSTRIES, INCORPORATED</FONT></P></TD>
+<TD vAlign=top width="12%">
+<P id=PARA300.3 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD vAlign=top width="50%">
+<P id=PARA300.8 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=top width="3%">
+<P id=PARA300.9 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=bottom width="35%" noWrap align=left>
+<P id=PARA300.10 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=top width="12%">
+<P id=PARA300.11 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="TEXT-ALIGN: left" vAlign=top width="50%" align=left>
+<P id=PARA300.12 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Date: January 17, 2017</FONT></P></TD>
+<TD style="BORDER-BOTTOM: #000000 1px solid; TEXT-ALIGN: left" vAlign=top width="3%">
+<P id=PARA300.13 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">By: </FONT></P></TD>
+<TD style="BORDER-BOTTOM: #000000 1px solid" vAlign=top width="35%" noWrap align=left>
+<P id=PARA300.14 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">/s/&nbsp;J. Michael Daniel</FONT></P></TD>
+<TD vAlign=top width="12%">
+<P id=PARA300.15 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD vAlign=top width="50%">
+<P id=PARA300.16 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=top colSpan=2>
+<P id=PARA300.17 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px">J. Michael Daniel</P></TD>
+<TD vAlign=top width="12%">
+<P id=PARA300.19 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD vAlign=top width="50%">
+<P id=PARA300.20 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=top width="3%">
+<P id=PARA300.21 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Title: </FONT></P></TD>
+<TD vAlign=top width="35%">
+<P id=PARA300.22 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Senior Vice President - Chief Financial Officer</FONT></P></TD>
+<TD vAlign=top width="12%">
+<P id=PARA300.23 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD></TR></TABLE>
+<P id=PARA107 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 216pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></P></BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3
+<SEQUENCE>2
+<FILENAME>ex3.htm
+<DESCRIPTION>EXHIBIT 3
+<TEXT>
+<HTML><HEAD><TITLE>ex3.htm</TITLE>
+<!-- Created by RDG HTML Converter -->
+</HEAD>
+<BODY>
+<P id=PARA3 style="MARGIN-BOTTOM: 0px; TEXT-ALIGN: right; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B></B></FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE  style="TEXT-INDENT: 0;FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%" cellSpacing=0 cellPadding=0>
+
+<TR>
+<TD style="WIDTH: 50%">
+<P id=PARA1 style="MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt">Revised: 01.11.17&nbsp;&nbsp;</P></TD>
+<TD style="WIDTH: 50%">
+<P id=PARA2 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt">&nbsp;&nbsp;&nbsp;&nbsp;<B>Exhibit 3</B></P></TD></TR></TABLE>
+<P id=PARA162 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></P>
+<P id=PARA163 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Effective: As of the 2017 Annual Meeting of Shareholders&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></P>
+<P style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT>&nbsp;</P>
+<P style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></P>
+<P id=PARA164 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><U>BY-LAWS</U></FONT></P>
+<P id=PARA165 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><U>OF</U></FONT></P>
+<P id=PARA166 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><U>BASSETT FURNITURE INDUSTRIES, INC.</U></FONT></P>
+<P id=PARA167 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA168 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>ARTICLE I</B>&nbsp; OFFICES</FONT></P>
+<P id=PARA169 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA170 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">The principal office of the Corporation in the State of Virginia shall be located in Bassett, County of Henry. The Corporation may have such other offices, either within or without the State of Virginia, as the Board of Directors may designate or as the business of the Corporation may require from time to time.</FONT></P>
+<P id=PARA171 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA172 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>ARTICLE II</B>&nbsp; SHAREHOLDERS</FONT></P>
+<P id=PARA173 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA174 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 1. <U>ANNUAL MEETING</U>. The annual meeting of the Shareholders shall be held on the fifteenth (15 </FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">th</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"> ) Wednesday following the end of each fiscal year of the Corporation or on such other date as the Board of Directors shall determine, and the time shall be set by the Chairman of the Board or by the President, for the purpose of electing Directors and for the transaction of such other business as may properly come before the meeting. If the election of Directors shall not be held on the day designated for any annual meeting of the Shareholders, or at any adjournment thereof, the Board of Directors shall cause the election to be held at a special meeting of the Shareholders as soon thereafter as conveniently may be.</FONT></P>
+<P id=PARA175 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA176 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 2. <U>SPECIAL MEETING</U>. Special meetings of the Shareholders, for any purpose or purposes, unless otherwise prescribed by statute, may be called by the Chairman of the Board, by the President, or by the Board of Directors.</FONT></P>
+<P id=PARA177 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA178 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 3. <U>PLACE OF MEETING</U>. The Board of Directors may designate any place, either within or without the State of Virginia unless otherwise prescribed by statute, as the place of meeting for any annual meeting or for any special meeting called by the Board of Directors.</FONT></P>
+<P id=PARA179 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA180 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 4. <U>NOTICE OF MEETING</U>. Written or printed notice stating the place, day and hour of the meeting and, in case of special meeting, the purpose or purposes for which the meeting is called, shall be delivered not less than 10 nor more than 60 days before the date of the meeting, either personally or by mail, by or at the direction of the President, or the Secretary, or the Officer or persons calling the meeting. If mailed, such notice shall be deemed to be delivered when deposited in the United States mail, addressed to the Shareholder at his address as it appears on the stock transfer books of the Corporation, with postage thereon prepaid. In the event the purpose or purposes for which a special or general meeting may be called are such that the law required a longer notice prior to the meeting, such notice shall be as required by the law.</FONT></P>
+<P id=PARA181 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA182 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 5. <U>QUORUM</U>. A majority of the outstanding shares of the Corporation entitled to vote, represented in person or by proxy, shall constitute a quorum at a meeting of Shareholders. If less than a majority of the outstanding shares are represented at a meeting, a majority of the shares so represented may adjourn the meeting from time to time without further notice. </FONT></P>
+<P id=PARA183 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA184 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 6. <U>PROXIES</U>. At all meetings of Shareholders, a Shareholder may vote by proxy executed in writing by the Shareholder or by his duly authorized attorney in fact. Such proxy shall be filed with the Secretary of the Corporation before or at the time of the meeting.</FONT></P>
+<P id=PARA185 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA186 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 7. <U>VOTING OF SHARES</U>. Each outstanding share entitled to vote shall be entitled to one vote upon each matter submitted to a vote at a meeting of Shareholders.</FONT></P>
+<P id=PARA187 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA188 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 8. <U>VOTING OF SHARES BY CERTAIN HOLDERS</U>. Shares standing in the name of another corporation may be voted by such Officer, agent or proxy as the by-laws of such corporation may prescribe, or, in the absence of such provision, as the Board of Directors of such corporation may determine.</FONT></P>
+<P id=PARA189 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA190 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Shares held by an administrator, executor, guardian or conservator may be voted by him, either in person or by proxy, without a transfer of such shares into his name. Shares standing in the name of a trustee may be voted by him, either in person or by proxy, but no trustee shall be entitled to vote shares held by him without a transfer of such shares into his name.</FONT></P>
+<P id=PARA5.1 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P>
+<DIV id=PGBK5  style="MARGIN-LEFT: 0pt; WIDTH: 100%; MARGIN-RIGHT: 0pt">
+<DIV id=PGFTR5  style="TEXT-ALIGN: center; WIDTH: 100%">&nbsp;</DIV>
+<DIV id=PGNUM5  style="FONT-SIZE: 10pt; TEXT-ALIGN: center; WIDTH: 100%">&nbsp;</DIV>
+<HR style="HEIGHT: 2px; PAGE-BREAK-AFTER: always; COLOR: #000000; WIDTH: 100%" noShade>
+
+<DIV id=PGHDR5  style="TEXT-ALIGN: left; WIDTH: 100%">&nbsp;</DIV></DIV>
+<P id=PARA5.2 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA192 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Shares standing in the name of a receiver may be voted by such receiver, and shares held by or under the control of a receiver may be voted by such receiver without the transfer thereof into his name if authority so to do be contained in an appropriate order of the court by which such receiver was appointed.</FONT></P>
+<P id=PARA193 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA194 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">A Shareholder whose shares are pledged shall be entitled to vote such shares until the shares have been transferred into the name of the pledgee, and thereafter the pledgee shall be entitled to vote the shares so transferred.</FONT></P>
+<P id=PARA195 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA196 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Shares of its own stock belonging to the Corporation or held by it in a fiduciary capacity shall not be voted, directly or indirectly, at any meeting, and shall not be counted in determining the total number of outstanding shares at any given time.</FONT></P>
+<P id=PARA197 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA198 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 9. <U>NOMINATIONS FOR DIRECTORS</U>. Nominations for the election of Directors shall be made by the Board of Directors or by any Shareholder entitled to vote in elections of Directors. However, any Shareholder entitled to vote in elections of Directors may nominate one or more persons for election as Directors at an annual meeting only if written notice of such Shareholder&#8217;s intent to make such nomination or nominations has been given, either by personal delivery or by United States registered or certified mail, postage prepaid, to the Secretary of the Corporation not later than 90 days prior to the date of the anniversary of the immediately preceding annual meeting. Each notice shall set forth (i) the name and address of the Shareholder who intends to make the nomination and of the person or persons to be nominated, (ii) a representation that the Shareholder is a holder of record of shares of the Corporation entitled to vote at such meeting and intends to appear in person or by proxy at the meeting to nominate the person or persons specified in the notice, (iii) a description of all arrangements or understandings between the Shareholder and each nominee and any other person or persons (naming such person or persons) pursuant to which the nomination or nominations are to be made by the Shareholder, and (iv) such other information regarding each nominee proposed by such Shareholder as would be required to be included in a proxy statement filed pursuant to the proxy rules of the Securities and Exchange Commission, had the nominee been nominated, or intended to be nominated, by the Board of Directors, and shall include a consent signed by each such nominee, to serve as a Director of the Corporation if so elected. The Chairman of the meeting may refuse to acknowledge the nomination of any person not made in compliance with the foregoing procedure.</FONT></P>
+<P id=PARA199 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA200 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 10. <U>NOTICE OF BUSINESS AT ANNUAL MEETING</U>. To be properly brought before an annual meeting of Shareholders, business must be (i) specified in the Notice of Meeting (or any supplement thereto) given by or at the direction of the Board of Directors, (ii) otherwise properly brought before the meeting by or at the direction of the Board of Directors, or (iii) otherwise properly brought before the annual meeting by a Shareholder. In addition to any other applicable requirements, for business to be properly brought before an annual meeting by a Shareholder, the Shareholder must have given timely notice thereof in writing to the Secretary of the Corporation. To be timely, a Shareholder&#8217;s notice must be given, either by personal delivery or by United States registered or certified mail, postage prepaid, to the Secretary of the Corporation not later than 160 days prior to the date of the anniversary of the immediately preceding annual meeting. A Shareholders&#8217; notice to the Secretary shall set forth as to each matter the Shareholder proposes to bring before the annual meeting (i) a brief description of the business desired to be brought before the annual meeting and the reasons for conducting such business at the annual meeting, (ii) the name and address of record of the Shareholder proposing such business, (iii) the class and number of shares of the Corporation that are beneficially owned by the Shareholder and (iv) any material interest of the Shareholder in such business. In the event that a Shareholder attempts to bring business before an annual meeting without complying with the foregoing procedure, the Chairman of the meeting may declare to the meeting that the business was not properly brought before the meeting and, if he shall so declare, such business shall not be transacted. </FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA202 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA203 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA204 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>ARTICLE III</B>&nbsp; BOARD OF DIRECTORS</FONT></P>
+<P id=PARA205 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA206 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 1. <U>GENERAL POWERS.</U> The business and affairs of the Corporation shall be managed by its Board of Directors.</FONT></P>
+<P id=PARA207 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA208 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 2. <U>NUMBER, TENURE AND QUALIFICATIONS</U>. The number of Directors of the Corporation shall be <FONT style="TEXT-DECORATION: line-through"><B>eleven</B></FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"> <U><B>eight</B></U>. Each Director shall hold office until the next annual meeting of the Shareholders and until his successor shall have been elected and qualified.</FONT></FONT></P>
+<P id=PARA209 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA210 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 3. <U>REGULAR MEETINGS</U>. A regular meeting of the Board of Directors shall be held without other notice than this By-law immediately prior to, and at the same place as, the annual meeting of Shareholders. The Board of Directors may provide, by resolution, the time and place for the holding of additional regular meetings without other notice than such resolution.</FONT></P>
+<P id=PARA6.1 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P>
+<DIV id=PGBK6  style="MARGIN-LEFT: 0pt; WIDTH: 100%; MARGIN-RIGHT: 0pt">
+<DIV id=PGFTR6  style="TEXT-ALIGN: center; WIDTH: 100%">&nbsp;</DIV>
+<DIV id=PGNUM6  style="FONT-SIZE: 10pt; TEXT-ALIGN: center; WIDTH: 100%">&nbsp;</DIV>
+<HR style="HEIGHT: 2px; PAGE-BREAK-AFTER: always; COLOR: #000000; WIDTH: 100%" noShade>
+
+<DIV id=PGHDR6  style="TEXT-ALIGN: left; WIDTH: 100%">&nbsp;</DIV></DIV>
+<P id=PARA6.2 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA212 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 4. <U>SPECIAL MEETINGS</U>. Special meetings of the Board of Directors may be called by the Chairman of the Board on at least 24-hours&#8217; notice to each Director of the date, time and place thereof, and shall be called by the Chairman of the Board or by the Secretary on like notice on the request in writing of a majority of the total number of Directors in office at the time of such request. The time and place of the special meeting shall be stated in the notice.</FONT></P>
+<P id=PARA213 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA214 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 5. <U>NOTICE</U>. Notice of any special meeting shall be given at least 24-hours previously thereto by written notice delivered personally or mailed to each Director at his business address, or by telegram. If mailed, such notice shall be deemed to be delivered when deposited in the United States mail so addressed, with postage thereon prepaid. If notice be given by telegram, such notice shall be deemed to be delivered when the telegram is delivered to the telegraph company. Any Director may waive notice of any meeting. The attendance of a Director at a meeting shall constitute a waiver of notice of such meeting, except where a Director attends a meeting for the express purpose of objecting to the transaction of any business because the meeting is not lawfully called or convened.</FONT></P>
+<P id=PARA215 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA216 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 6. <U>QUORUM</U>. A majority of the number of Directors fixed by Section 2 of this Article III shall constitute a quorum for the transaction of business at any meeting of the Board of Directors, but if less than such majority is present at a meeting, a majority of the Directors present may adjourn the meeting from time to time without further notice. </FONT></P>
+<P id=PARA217 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA218 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 7. <U>MANNER OF ACTING</U>. The act of the majority of the Directors present at a meeting at which a quorum is present shall be the act of the Board of Directors.</FONT></P>
+<P id=PARA219 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA220 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 8. <U>VACANCIES</U>. Any Directorship to be filled by reason of any vacancy occurring in the Board of Directors or of an increase in the number of Directors shall be filled at any Director&#8217;s meeting or any Stockholder&#8217;s meeting.</FONT></P>
+<P id=PARA221 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA222 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 9. <U>COMPENSATION</U>. By resolution of the Board of Directors, the Directors may be paid their expenses, if any, of attendance at each meeting of the Board of Directors, and may be paid a fixed sum for attendance at each meeting of the Board of Directors or a stated salary as Director. No such payment shall preclude any Director from serving the Corporation in any other capacity and receiving compensation therefor.</FONT></P>
+<P id=PARA223 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA224 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 10. <U>PRESUMPTION OF ASSENT</U>. A Director of the Corporation who is present at a meeting of the Board of Directors at which action on any corporate matter is taken shall be presumed to have assented to the action taken unless his dissent shall be entered in the minutes of the meeting or unless he shall file his written dissent to such action with the person acting as the Secretary of the meeting before the adjournment thereof or shall forward such dissent by registered mail to the Secretary of the Corporation immediately after the adjournment of the meeting. Such right to dissent shall not apply to a Director who voted in favor of such action.</FONT></P>
+<P id=PARA225 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA226 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 11. <U>REDEMPTION OF SHARES</U>. Pursuant to Section 13.1-728.7 of the Virginia Stock Corporation Act, the Board may redeem shares [at the price established by Section 13.1-728.7.C] if the requirements of either Section 13.1-728.7.A or Section 13.1-728.7.B have occurred.</FONT></P>
+<P id=PARA227 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA228 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>ARTICLE IV </B>&nbsp;OFFICERS</FONT></P>
+<P id=PARA229 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA230 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 1. <U>NUMBER</U>. The Officers of the Corporation shall be a Chairman of the Board of Directors and Chief Executive Officer, a President, Vice Presidents, a Secretary and a Treasurer, each of whom shall be elected by the Board of Directors. More than one office may be held by the same person with the exception that the same person cannot hold the office of President and Secretary at the same time. Such other Officers and assistant Officers as may be deemed necessary may be elected or appointed by the Board of Directors.</FONT></P>
+<P id=PARA231 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA232 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 2. <U>ELECTION AND TERM OF OFFICE</U>. The Officers of the Corporation to be elected by the Board of Directors shall be elected annually by the Board of Directors at the meeting held after each annual meeting of the Shareholders. If the election of Officers shall not be held at such meeting, such election shall be held as soon thereafter as conveniently may be. Each Officer shall hold office until his successor shall have been duly elected and shall have qualified or until his death or until he shall resign or shall have been removed in the manner hereinafter provided.</FONT></P>
+<P id=PARA233 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA234 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 3. <U>REMOVAL</U>. Any Officer or agent elected or appointed by the Board of Directors may be removed by the Board of Directors whenever in its judgment the best interests of the Corporation would be served thereby, but such removal shall be without prejudice to the contract rights, if any, of the person so removed.</FONT></P>
+<P id=PARA235 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA236 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 4. <U>VACANCIES</U>. A vacancy in any office because of death, resignation, removal, disqualification or otherwise, may be filled by the Board of Directors for the unexpired portion of the term.</FONT></P>
+<P id=PARA7.1 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P>
+<DIV id=PGBK7  style="MARGIN-LEFT: 0pt; WIDTH: 100%; MARGIN-RIGHT: 0pt">
+<DIV id=PGFTR7  style="TEXT-ALIGN: center; WIDTH: 100%">&nbsp;</DIV>
+<DIV id=PGNUM7  style="FONT-SIZE: 10pt; TEXT-ALIGN: center; WIDTH: 100%">&nbsp;</DIV>
+<HR style="HEIGHT: 2px; PAGE-BREAK-AFTER: always; COLOR: #000000; WIDTH: 100%" noShade>
+
+<DIV id=PGHDR7  style="TEXT-ALIGN: left; WIDTH: 100%">&nbsp;</DIV></DIV>
+<P id=PARA7.2 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA238 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 5. <U>CHAIRMAN OF THE BOARD</U>. The Chairman of the Board shall, when present, preside at all meetings of the Board of Directors. </FONT></P>
+<P id=PARA239 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA240 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 6. <U>PRESIDENT-CHIEF EXECUTIVE OFFICER</U>. The President-Chief Executive Officer shall be the principal executive Officer under the immediate supervision of the Chairman of the Board and subject to the supervision of the Chairman of the Board and to the control of the Board of Directors, shall in general supervise and control all of the business and affairs of the Corporation. He may sign, with the Secretary or any other proper Officer of the Corporation thereunto authorized by the Board of Directors, certificates for shares of the Corporation, any deeds, mortgages, bonds, contracts, or other instruments which the Board of Directors has authorized to be executed, except in cases where the signing and execution thereof shall be expressly delegated by the Board of Directors or by these By-laws to some other Officer or agent of the Corporation, or shall be required by law to be otherwise signed or executed; and in general shall perform all duties incident to the office of President and such other duties as may be prescribed by the Board of Directors from time to time.</FONT></P>
+<P id=PARA241 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA242 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 7. <U>VICE PRESIDENTS</U>. In the absence of the President-Chief Executive Officer or in event of his death, inability or refusal to act, a Vice President shall perform the duties of the President, and when so acting, shall have all the powers of and be subject to all the restrictions upon the President-Chief Executive Officer. The Vice Presidents shall perform such other duties as from time to time may be assigned to them by the President-Chief Executive Officer or by the Board of Directors.</FONT></P>
+<P id=PARA243 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA244 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 8. <U>SECRETARY</U>. The Secretary shall: (a) keep the minutes of the Shareholders and of the Board of Directors&#8217; meetings in one or more books provided for that purpose; (b) see that all notices are duly given in accordance with the provisions of these By-laws or as required by law; (c) be custodian of the corporate records and of the Seal of the Corporation and see that the Seal of the Corporation is affixed to all documents the execution of which on behalf of the Corporation under its Seal is duly authorized; (d) keep a register of the post office address of each Shareholder which shall be furnished to the Secretary by such Shareholder; (e) have general charge of the stock transfer books of the Corporation; and (f) in general perform all duties incident to the office of Secretary and such other duties as from time to time may be assigned to him by the President or by the Board of Directors.</FONT></P>
+<P id=PARA245 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA246 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 9. <U>TREASURER</U>. If required by the Board of Directors, the Treasurer shall give a bond for the faithful discharge of his duties in such sum and with such surety or sureties as the Board of Directors shall determine. He shall (a) have charge and custody of and be responsible for all funds and securities of the Corporation; receive and give receipts for moneys due and payable to the Corporation from any source whatsoever, and deposit all such moneys in the name of the Corporation in such banks, trust companies or other depositaries as shall be selected in accordance with the provisions of Article V of these By-laws; and (b) in general perform all the duties incident to the office of Treasurer and such other duties as from time to time may be assigned to him by the President or by the Board of Directors.</FONT></P>
+<P id=PARA247 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA248 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 10. <U>SALARIES</U>. The salaries of the Officers shall be fixed from time to time by the Board of Directors or by authority of the Board of Directors delegated to a committee of the Board, the Chairman of the Board or the President, and no Officer shall be prevented from receiving such salary by reason of the fact that he is also a Director of the Corporation.</FONT></P>
+<P id=PARA249 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA250 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>ARTICLE V</B>&nbsp; CONTRACTS, LOANS, CHECKS AND DEPOSITS</FONT></P>
+<P id=PARA251 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA252 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 1. <U>CONTRACTS</U>. The Board of Directors may authorize any Officer or Officers, agent or agents, to enter into any contract or execute and deliver any instrument in the name of and on behalf of the Corporation, and such authority may be general or confined to specific instances. </FONT></P>
+<P id=PARA253 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA254 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 2. <U>LOANS</U>. No loans shall be contracted on behalf of the Corporation and no evidences of indebtedness shall be issued in its name unless authorized by a resolution of the Board of Directors. Such authority may be general or confined to specific instances.</FONT></P>
+<P id=PARA255 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA256 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 3. <U>CHECKS, DRAFTS, ETC</U>. All checks, drafts or other orders for the payment of money, notes or other evidences of indebtedness issued in the name of the Corporation shall be signed by such Officer or Officers, agent or agents of the Corporation and in such manner as shall from time to time be determined by resolution of the Board of Directors.</FONT></P>
+<P id=PARA257 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA258 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 4. <U>DEPOSITS</U>. All funds of the Corporation not otherwise employed shall be deposited from time to time to the credit of the Corporation in such banks, trust companies or other depositaries as the Board of Directors may select.</FONT></P>
+<P id=PARA8.1 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P>
+<DIV id=PGBK8  style="MARGIN-LEFT: 0pt; WIDTH: 100%; MARGIN-RIGHT: 0pt">
+<DIV id=PGFTR8  style="TEXT-ALIGN: center; WIDTH: 100%">&nbsp;</DIV>
+<DIV id=PGNUM8  style="FONT-SIZE: 10pt; TEXT-ALIGN: center; WIDTH: 100%">&nbsp;</DIV>
+<HR style="HEIGHT: 2px; PAGE-BREAK-AFTER: always; COLOR: #000000; WIDTH: 100%" noShade>
+
+<DIV id=PGHDR8  style="TEXT-ALIGN: left; WIDTH: 100%">&nbsp;</DIV></DIV>
+<P id=PARA8.2 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA260 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>ARTICLE VI </B>&nbsp;CERTIFICATES FOR SHARES AND THEIR TRANSFER</FONT></P>
+<P id=PARA261 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA262 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 1. <U>CERTIFICATES FOR SHARES</U>. Certificates representing shares of the Corporation shall be in such form as shall be determined by the Board of Directors. Such certificates shall be signed by the President and by the Secretary or by such other Officers authorized by law and by the Board of Directors so to do and may (but not need) be sealed with the seal of the Corporation. All certificates for shares shall be consecutively numbered or otherwise identified. The seal of the Corporation and any or all of the signatures on a share certificate may be facsimile. If any officer, transfer agent or registrar who has signed or whose facsimile signature has been placed upon a certificate shall have ceased to be such officer, transfer agent or registrar before such certificate is issued, it may be issued by the Corporation with the same effect as if he were such officer, transfer agent or registrar on the date of issue.</FONT></P>
+<P id=PARA263 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA264 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 2. <U>TRANSFER OF SHARES</U>. The Board of Directors may make rules and regulations concerning the issue, registration and transfer of certificates representing the shares of the Corporation. Transfers of shares and of the certificates representing such shares shall be made upon the books of the Corporation by surrender of the certificates representing such shares accompanied by written assignments given by the owners or their attorneys-in-fact.</FONT></P>
+<P id=PARA265 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA266 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 3. <U>LOST OR DESTROYED SHARE CERTIFICATES.</U> The Corporation may issue a new share certificate in the place of any certificate theretofore issued which is alleged to have been lost or destroyed and may require the owner of such certificate, or his legal representative, to give the Corporation a bond, with or without surety, or such other agreement, undertaking or security as the Board of Directors shall determine is appropriate, to indemnify the Corporation against any claim that may be made against it on account of the alleged loss or destruction or the issuance of any such new certificate.</FONT></P>
+<P id=PARA267 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA268 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>ARTICLE VII</B>&nbsp; FISCAL YEAR</FONT></P>
+<P id=PARA269 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA270 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">The fiscal year of the Corporation shall begin on the first Sunday after the last Saturday in November and end on the last Saturday of November of each year. </FONT></P>
+<P id=PARA271 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA272 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA273 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>ARTICLE VIII</B>&nbsp; DIVIDENDS</FONT></P>
+<P id=PARA274 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA275 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">The Board of Directors may from time to time declare, and the Corporation may pay, dividends on its outstanding shares in the manner and upon the terms and conditions provided by law and its Articles of Incorporation, and may set the stock &#8220;of record&#8221; date for such payment.</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA277.1 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P>
+<DIV id=PGBK277  style="MARGIN-LEFT: 0pt; WIDTH: 100%; MARGIN-RIGHT: 0pt">
+<DIV id=PGFTR277  style="TEXT-ALIGN: center; WIDTH: 100%">&nbsp;</DIV>
+<DIV id=PGNUM277  style="FONT-SIZE: 10pt; TEXT-ALIGN: center; WIDTH: 100%">&nbsp;</DIV>
+<HR style="HEIGHT: 2px; PAGE-BREAK-AFTER: always; COLOR: #000000; WIDTH: 100%" noShade>
+
+<DIV id=PGHDR277  style="TEXT-ALIGN: left; WIDTH: 100%">&nbsp;</DIV></DIV>
+<P id=PARA277.2 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P>
+<P id=PARA278 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>ARTICLE IX</B>&nbsp; SEAL</FONT></P>
+<P id=PARA279 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA280 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">The Board of Directors shall provide a Corporate Seal which shall be circular in form and shall have inscribed thereon the name of the Corporation, the State of Incorporation and the words, &#8220;Corporate Seal.&#8221;</FONT></P>
+<P id=PARA281 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA282 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>ARTICLE X</B>&nbsp; WAIVER OF NOTICE</FONT></P>
+<P id=PARA283 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA284 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Unless otherwise provided by law, whenever any notice is required to be given to any Director of the Corporation under the provisions of these By-laws or under the provisions of the Articles of Incorporation, a waiver thereof in writing signed by such Director entitled to such notice, whether before or after the time stated therein, shall be deemed equivalent to the giving of such notice.</FONT></P>
+<P id=PARA285 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA286 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>ARTICLE XI</B>&nbsp; AMENDMENTS</FONT></P>
+<P id=PARA287 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA288 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">These By-laws may be altered, amended or repealed and new By-laws may be adopted by the Board of Directors. But By-laws made by the Board of Directors may be repealed or changed, and new By-laws made, by the Shareholders at any annual Shareholders meeting or at any special Shareholders meeting when the proposed changes have been set out in the notice of such meeting. </FONT></P>
+<P id=PARA289 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA290 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA291 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>ARTICLE XII</B>&nbsp; INDEMNIFICATION OF DIRECTORS AND OFFICERS</FONT></P>
+<P id=PARA292 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA293 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 1. The Corporation shall indemnify to the extent, in the manner and subject to compliance with the applicable standards of conduct provided by Section 13.1, <U>et</U> <U>seq</U> of the Virginia Stock Corporation Act of the Code of Virginia, as revised, every person who is or was (i) a Director or Officer of the Corporation (ii) an employee, including an employee of a subsidiary of the Corporation who is designated by the Board of Directors, or (iii) at the corporation, partnership, joint venture, trust or other enterprise who is designated from time to time by the Board of Directors.</FONT></P>
+<P id=PARA294 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA295 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 27pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">SECTION 2. The indemnification hereby provided shall be applicable to claims, actions, suits or proceedings made or commenced after the adoption hereof, whether arising from actions or omissions to act occurring, before or after the adoption hereof. Such indemnification (i) shall not be deemed exclusive of any other rights to which any person seeking indemnification under or apart from this Article XII may be entitled under any By-law, agreement, vote of Stockholders or disinterested Directors or otherwise, both as to action in his official capacity and as to action in another capacity while holding such office, (ii) shall continue as to a person who has ceased to be a Director, Officer, employee, or agent, (iii) shall inure to the benefit of the heirs, executor or administrator of such a person and (iv) shall inure to any individual who has served, or may now or hereafter serve, as a Director or Officer of a corporation which is a subsidiary of this Corporation, provided however, that no indemnification shall be afforded as to acts of any Officer or Director of a subsidiary for any period prior to the time such Corporation became a subsidiary. The term subsidiary as used in this Section shall mean any corporation (other than the Company) in an unbroken chain of corporations beginning with the Company if each of the corporations other than the last corporation in such chain owns stock possessing at least fifty percent of the voting power in one of the other corporations in such chain.</FONT></P></BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

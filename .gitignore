@@ -105,4 +105,5 @@ my_venv/
 # mypy
 .mypy_cache/
 
+# gad
 .idea/

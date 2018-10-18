@@ -1,0 +1,420 @@
+<SEC-DOCUMENT>0001193125-17-033978.txt : 20170208
+<SEC-HEADER>0001193125-17-033978.hdr.sgml : 20170208
+<ACCEPTANCE-DATETIME>20170208090955
+ACCESSION NUMBER:		0001193125-17-033978
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20170206
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20170208
+DATE AS OF CHANGE:		20170208
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BAXTER INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000010456
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				360781620
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04448
+		FILM NUMBER:		17581046
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE BAXTER PKWY
+		STREET 2:		DF2-1W
+		CITY:			DEERFIELD
+		STATE:			IL
+		ZIP:			60015
+		BUSINESS PHONE:		8479482000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE BAXTER PARKWAY
+		STREET 2:		DF2-1W
+		CITY:			DEERFIELD
+		STATE:			IL
+		ZIP:			60015
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BAXTER TRAVENOL LABORATORIES INC
+		DATE OF NAME CHANGE:	19880522
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BAXTER LABORATORIES INC
+		DATE OF NAME CHANGE:	19760608
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d328133d8k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM <FONT
+STYLE="white-space:nowrap">8-K</FONT> </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>CURRENT
+REPORT </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Pursuant to Section&nbsp;13 or 15(d) </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>of the Securities Exchange Act of 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Date of Report (Date of earliest event reported): February&nbsp;6, 2017 </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>Baxter International Inc. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Delaware</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">1-4448</FONT></B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">36-0781620</FONT></B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>of incorporation)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(I.R.S. Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" COLSPAN="3"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3" ALIGN="center"><B>One Baxter Parkway, Deerfield, Illinois</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>60015</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" COLSPAN="3" ALIGN="center"><B>(Address of principal executive offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(224) <FONT STYLE="white-space:nowrap">948-2000</FONT> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Registrant&#146;s telephone number, including area code) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Former name or former address, if changed since last report) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box below if the Form <FONT STYLE="white-space:nowrap">8-K</FONT> filing is intended to simultaneously satisfy the filing obligation of
+the registrant under any of the following provisions: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule <FONT STYLE="white-space:nowrap">14a-12</FONT> under the Exchange Act (17 CFR <FONT STYLE="white-space:nowrap">240.14a-12)</FONT> </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="white-space:nowrap">Pre-commencement</FONT> communications pursuant to Rule <FONT STYLE="white-space:nowrap">14d-2(b)</FONT> under the Exchange Act (17 CFR 240.14d 2(b)) </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="white-space:nowrap">Pre-commencement</FONT> communications pursuant to Rule <FONT STYLE="white-space:nowrap">13e-4(c)</FONT> under the Exchange Act (17 CFR
+<FONT STYLE="white-space:nowrap">240.13e-4(c))</FONT> </TD></TR></TABLE> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain
+Officers; Compensatory Arrangements of Certain Officers. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Election of Director </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:13%; font-size:10pt; font-family:Times New Roman">Effective February&nbsp;6, 2017, Baxter International Inc. (the &#147;Company&#148;) appointed Dr.&nbsp;Stephen&nbsp;N. Oesterle to the
+Company&#146;s board of directors (the &#147;Board&#148;). Dr.&nbsp;Oesterle was also appointed to the Board&#146;s Public Policy Committee. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:13%; font-size:10pt; font-family:Times New Roman">Dr.&nbsp;Oesterle will be compensated for service as a director pursuant to the Company&#146;s
+<FONT STYLE="white-space:nowrap">Non-Employee</FONT> Director Compensation Plan and will be eligible to participate in the Company&#146;s Directors&#146; Deferred Compensation Plan. In connection with joining the Board, Dr.&nbsp;Oesterle was granted
+equity awards as compensation for a portion of his 2017 service (representing the period between his appointment date and the Company&#146;s 2017 Annual Meeting of Stockholders) in an amount consistent with the awards granted annually to <FONT
+STYLE="white-space:nowrap">non-employee</FONT> directors, prorated for the number of months to be served in accordance with the terms of the Company&#146;s <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Director Compensation Plan. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;8.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Other Events. </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:13%; font-size:10pt; font-family:Times New Roman">On February&nbsp;8, 2017, the Company issued a press release announcing
+the appointment of Dr.&nbsp;Oesterle to the Board. A copy of this press release is attached hereto as Exhibit 99.1 and is incorporated by reference herein. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;9.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Financial Statements and Exhibits. </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(d) Exhibits. </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:23.50pt; font-size:8pt; font-family:Times New Roman">Exhibit</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:81.20pt; font-size:8pt; font-family:Times New Roman">Description of Document</P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Press Release of Baxter International Inc. dated February&nbsp;8, 2017</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on
+its behalf by the undersigned hereunto duly authorized. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Date: February&nbsp;8, 2017 </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="6%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="92%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3">BAXTER INTERNATIONAL INC.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Ellen K. McIntosh</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Ellen K. McIntosh</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Corporate Vice President and Corporate Secretary</TD></TR>
+</TABLE></DIV>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Exhibit Index </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Exhibit</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:26.20pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Number</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:37.25pt; font-size:8pt; font-family:Times New Roman">Description</P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Press Release dated February&nbsp;8, 2017.</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>d328133dex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-99.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 99.1 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt;margin-bottom:0pt" ALIGN="right">
+
+
+<IMG SRC="g328133img1.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>FOR IMMEDIATE RELEASE </U></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Media Contact: </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Bill Rader, (224) <FONT
+STYLE="white-space:nowrap">948-5353</FONT> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Investor Contact: </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Clare Trachtman, (224) <FONT STYLE="white-space:nowrap">948-3085</FONT> </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>BAXTER APPOINTS DR. STEPHEN OESTERLE TO ITS BOARD </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Industry Veteran Complements Current Board Expertise </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">DEERFIELD, Ill., February&nbsp;8, 2017 &#150; Baxter International Inc. (NYSE:BAX) today announced it has appointed Stephen (Steve) N.
+Oesterle, M.D., to its Board of Directors, bringing the total number serving the company to 12. Dr.&nbsp;Oesterle now also serves on Baxter&#146;s Public Policy Committee. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">&#147;We are excited to welcome Steve to Baxter&#146;s board,&#148; said Jos&eacute; (Joe) E. Almeida, chairman and chief executive officer.
+&#147;His deep experience in leveraging technology to address global healthcare needs, coupled with his differentiated expertise as a former practicing physician, enhances our current board membership and supports our goals for patient-focused,
+innovation-driven growth.&#148; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Dr.&nbsp;Oesterle is a consultant and provides advisory services to private equity and operating
+companies in the healthcare industry. He previously served as senior vice president, Medicine and Technology at Medtronic and as a member of Medtronic&#146;s Executive Committee. He also held prior roles as associate professor of medicine and
+director of Invasive Cardiology Services at Harvard Medical School-affiliated Massachusetts General Hospital, Stanford University </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>BAXTER APPOINTS DR. STEPHEN OESTERLE TO ITS BOARD &#150; Page 2 </U></B></P>
+<p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Medical Center and Georgetown University Medical Center. Dr.&nbsp;Oesterle received his
+bachelor&#146;s degree, <I>summa cum laude</I>, from Harvard University; his medical degree, <I>cum laude</I>, from Yale University School of Medicine; and conducted his residency at Massachusetts General Hospital. He completed a post-doctoral
+fellowship in cardiology at Stanford University Medical Center. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Baxter provides a broad portfolio of essential renal and hospital
+products, including home, acute and <FONT STYLE="white-space:nowrap">in-center</FONT> dialysis; sterile IV solutions; infusion systems and devices; parenteral nutrition; biosurgery products and anesthetics; and pharmacy automation, software and
+services. The company&#146;s global footprint and the critical nature of its products and services play a key role in expanding access to healthcare in emerging and developed countries. Baxter&#146;s employees worldwide are building upon the
+company&#146;s rich heritage of medical breakthroughs to advance the next generation of healthcare innovations that enable patient care. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">#
+# # </P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g328133img1.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g328133img1.jpg
+M_]C_X  02D9)1@ ! @  9 !D  #_[  11'5C:WD  0 $    9   _^X #D%D
+M;V)E &3      ?_; (0  0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$!
+M 0$! 0$! 0$! 0$! 0(" @(" @(" @(" P,# P,# P,# P$! 0$! 0$" 0$"
+M @(! @(# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,#
+M P,# P,# P,#_\  $0@ % !J P$1  (1 0,1 ?_$ +    ,! 0$
+M      <)"@@$!@$  P$! 0$             !@<(!00! A    4" P<" @0-
+M!0       @,$!08!!Q46"!$2$Q07& D &2,E(20W"C%1(C)",V,T)C96)U=A
+M8F0X.A$  0(#!@0#!04#"0D      0(#$1($ "$3!08'(A05%C$C%T%A,C,(
+M47%"4S2!<B2A4D-STT14-29BHF24)54W9QC_V@ , P$  A$#$0 _ *+_ #Z:
+MP;@Z3=(,4Z-SU\MU=RZEVX]&XY)(TK*1OC;'(\A<93,%:49I9X!$'%(4B VE
+M2Q4W5]/P5V5]/CZ?-&9?K#6;HSJG;J<GI*-:UH6(I4M92AL'WWJ4+_P62N^N
+ML*_2.D6W,I>6SFE14I0A23!02E*E+/W1D2?WK)B\8Z;RQ^2B/W;EC/Y*KK6>
+MC5JWJ,QRCH],P)>"3/;ZWN3LX(D04BF.E(LO-R9*8?41AM1<^52@0TVUJZ]T
+MSM#MA4T=$[IBEK:JK;6N5*L.1*"E*28A<9R5 7"$AOLGML5;I[CTM56HU _1
+MTU,M"05)4Y.I045 06B$@ )O/Q"V9]%_D<\CC_Y K%V:3ZM)W>F-N^HAJMP\
+M-\CPUQAT[@94K-:94\U;E+356A1*X>C5.*8X PJ4=* '0>T-=I3K?;/;2GVZ
+MK\\7E#%#4HRU3R2B8.-.EN9M,P5 D.%*"/A5>(7V&M';C;B5&X-'D:,S<K:5
+M5<EI4UZ'&L0!:H&, 414#XI\8W6IZE7GD\7L-E$EB#SJ%6B>(G('F,N]6RUM
+MU'AMQ1A<5+4XT0.S9#U+<Z(PK$@Z%J$YAA!P*4& 0@UI6LKTFP6Z=;2-5K.7
+M)P7FTK3,^PE4JP%"*5. I,#>D@$&XB-J:J]Z]N:*J<I'ZU>,TLI,&'U"(,#!
+M26R%#[""01>#"W1$?.[XNYG(V:,M^I +6J?5Q3<D<I1;FYT7CB=2?6H":NTD
+M>X@C969*8;L!4]4<406(5*C&$.VM/*S8+=6AI5U;F6%:&TS$-O,.+('C*A+A
+M4H^Y()/L!M\TF]^VE95(HT9C(ZLP!<9>;2#_ +2EMA*1[R0![2!;1>JOR4:1
+MM%<AB4<U%SJ1PI5/&)1(H<Y(K;W ED=D3<B4%IG"C9(HI''EF.6MPU! E"?C
+M4/**4DF"#N&@$(;TEMEK'7%.]4Z:IVWTT[@0XDO,MK0HB(F0XM*@%0,%0@2E
+M0!B#8@U3N+I31CS3.HGW&"^@J;4&G5H4 8&"D(4F(B(B,0"D^!%B?IEUF:<=
+M7]L7R\%A;BHY5 8P]NT>DKNYMSM$CH\Y,K>D=G +VV2M$SN36D+:UQ2D*@XH
+M!!A JC".H0BK3*U3HK4NC<T;R;4%,IG,'6TK0E)2Y.E1*1*ILJ2HS I@#$&X
+MB\6T].:OT]JS+5YOD50EV@;64K4042E("C,%A)2)2#$B$/;<;8*O;YL-*D=L
+MCJ4N/I\>G*^4CT^(0HU8TD)N&W6E6S%QDJ")QQC47;'&BX<>4^NKA0Q)R:P\
+MU:E+$<G"873?],#(]CM6U.>Y7EFHD)H*;,51$7634!L(4XM0IY\0%"4\4R0$
+MJ(2J!NL$YUO#IBER7,,RR1:JQVA !(;=#)65A"1C2A!"B8IE49@"4W7V6KI+
+M^\LLL]NB[H-7\8MGI\M&CB+DO:7R(MUU+ARQ\F-75G3M#$6G:4#@G0MY;4:N
+M4*5!R4-!B** "H:BKM9^L/IA?R[*D.:-=JLQSE3R0I+BF&6TMRJ*E\1!)FD
+M 5[23&RUTE]1U-FF8J1J=IFARM+2B%(0\ZM3D4A*8("@! K)) \ !XV<E</R
+M^>/RU5OK3W)G=]0,C+>Z+%3FV[1DF>KIF]0I0N7MJ26JX6WQI5)&&/+UC8<!
+M*I7ITQ:K<K4FHZ4%6B4RS9S<3.,QJ\LR^@+C]"[A/*Q6@VEP *+8<*PA:P%
+MJ2@J*8B:$19P9GNMH3)Z&FS#,:T-LU;<[2<-PN%!*@%EL(*TI)2H)*@)H&$8
+M&P0I]X#\6 JU"'4 ^B$'\X(;-WB$*FRNRNVE(16M-E?6_P#_ #QNQ_VY'_,T
+M_P#:VQ#OQMBD FO< /\ P]1_96TM/O*=H6MU8B":EWF^+>Z65N/+54$BTSB,
+M;ELN ;+T+<O=5T>=F9@8US_'G5$B;#AG$KTJ<9>P-!4IO@WA?+]J->YEJ"HT
+MLQ0*1GM,R'5M.+;;\LJ"0M*EJ"%I)4(%"B#?#P,"3,-S-%9;D;&HZBM2<FJ'
+M<-#B$+7QRE4JDI25I( )(4D$7?:+ 9;YXO%T@8620':C#!IWY0[)TC<FMG=%
+M4_):,YI!!ZEW8T\/,<V9&K-/V)#%1905= #J5OT *M"!&P.ZKE0Y3#+(*;"2
+M27F DS1("5%R51$.())EB(PB+8*]\=LT4Z*DYC%#A( #3Q4(0O4D-S)!C=,!
+M&!AX6._NC:./ZWF?_6[NW^R&Z?V!?UU_*/ZK_B?OG[+T/>E>L_R&/\TZ?^H8
+M_5_E?,_WOA]]M_U)TE^>Y_EW/?)=_2_F_!X>[XO=:7#[S9?6LVU;VHL2@6",
+M:K'6IH^.Z6@JT 3-+KN '-2 P'YM3"8A'6@8:U^FE%(OQ^JO^EK(!1:0J]0.
+M"#M?5RI/VM,"47_UBW ?N'V6ESZFL]YS4])D39BU1TTRK_Z1XS$$?N):(^\V
+M%S-XOV>VOB@,U^RK53=FVTGD, /G;)9>,*$;)&7UVDDG'%[;M"D\#TA<W ^4
+MM9J%4I, 74XM,</<"(!/TZ;^ZK^:[NC;ZDRFCJJ5JH#2JE8*EI2AO$>4!*0
+MVH+2F)@2!$WW<U)MHQD^U)UK4YG4TU6XP74LH("%*6N1H?$"9TR*) C*3<86
+MS#XE+W@TOW$U+ZFQVRA5P%-A=*TWF49<I<E6&GQ.X3]*X9;F 58UB4\%$(I4
+M^S:C>X; <P8UC/H2856@JB*]XLA.JLNRO2PJGZ=&89LTVM+9$'&4-NO.S B_
+M#0U.CV!83$&Z AL_G0TU6YGJ-5,T^:++5N(4L$X;JEMLMRD&Z93H2KVE!5 B
+MS#?'EJ*\G'DHN?<6%VVN'I6M8VV_BA$R?WU_TE6D=8^AJ\/(&ECC+6F3PM>Z
+MFK' 0%1Q8E2L50D(S:B&,>RE5QN3IK:_;#*J:MS*GS:K=J7BVA**^H2HRIF6
+MM1+H3 <(,J?%0N LQ=N]1[B;E9I4T]"]EM+3,-SJ*J.G4!,H!*!Y"B2>(B8^
+M"3?9+]_FNY^HS71+K=R&612Y=SI??!ML.5,;?0II@4.E+FTR)!:=K>8W#8^W
+M-K>TM"@" !H=T@)AP:5.-J(8Q"J[].O95IK0#.9TS+U+E;- :HMO.J=<;2I!
+MJ%)6XM2E*4)B/$@?"(  63&?M9GJ#<%S+W7FG\Q<KDTZ7&VTMH64J#*%)0A*
+M4@&4'P$8Q-\3:TOS;68TNG^.%1$+R7%CEMW^T+(SJ]-TBD!E5<D=Y_"V%.SH
+MH:RM:8*F0/Y4X908<X@3@-+2T/+7*-@4M!TA[8O.]6)W,%9DE,[5,5CBA6(0
+M((2RZLJ+BE&"$%I7&B)!5 MIO7 V;O-DVF7=O%46<U#=.]2M@TBE7K4ZVD -
+MI2(J7B)X50!"8AQ5R(VB]T035E.NU%=.=ZKR7.M/I.O]<.$LVHAM@,@I'T[\
+MF:S7)'%@RPX[:2ECJ9[>0D.9]0BY= :8<(LP2<J@;?U[0/\ 1G=39'14M7J_
+M+Z9U5&IU$Y05!)<PX7E92F+8]JP$Q 4JT9Z"S%I&<MZ;SFLJ:72U<^A-4&U2
+MA025!$\;@@*5QDBY)*H$@6HM^\+%VITIZ.-+&BJP,,8+<P*77">)VICT;2<
+ME0RVN8DB A4[+Q5,6/CJ]2":)E*A:K./5*C4=!FF"K2E?4U?3@<VU;K7-M<:
+M@><J:]FF2T%K,3,^LF"1X)2E#2DA*0$I"H) %J'^H)>5Z6T;ENC\C:13T;SZ
+MG)4"XI:2$Q4;RI2E.A14HE2BF)-M%?=P=+</0Z*IA>:=0F.R%UO9=I\-8CY+
+M'6IXX4,MXF)B#?5 8YI%(BBCY0!YJ/<W0CV!_#L]#?U,:KK7=<LY)0/NMLT-
+M&B8(6I/F/'$,92/Z,M0_;8@^G72]&UHES-JUEIUVLJ5%)6A*O+:$@A,#^/$C
+M]PM-AY.):[ZK_)Y>R.6V;2W :F[+!ILM+'6D!"1%4$&,:[3,#2S$%A)1MZ%Q
+MDZ,\XN@: *+YFHJ[*;:^J=VKHV-(;54-5FBBD"C76U"U1)\V:H4I7B24H(!]
+MO#"TX;FUCVJ]T*JDRU(7"K32L($ GRBEA*4BX!*E)B/ <5G!:N?'UY6-5MD[
+M(6,!H9TKV9CECA-V$O5N+KP6DED9+3$@1!"F?71P<PJ!)ZI:#4'!H(55"JH1
+MF5J(%*^DOHW<7:;2.>5V?'/<VK:FNFF2\P[(B9S$)2D)A&-P^Q,0/&SDUAH#
+M<G561461-9+EU&Q1RP4TZR%JE0$ %6)$W D_:;SX64)KIM!<S1E8?33HCNP6
+MWM-RTLGO!JBNC&V>0H)*VL[E<9:Q6MMNEHYM*A0VF* 0FU:A8,)8JU!5SV"^
+MFGIS: SG+-;ZAS37>4S+RLM4]"PM2"A2DLA;[QE4 J&+4!-_\RZR=U]E-?HO
+M3V7:)S&"<QQ'JQ] 4%@%V1EH I)3$(8*H _CO@;5'^'7QL:6U_CTLO,[Y:<[
+M17,N%>1M?KD/4@N%;^/RA]"P2IW7@AS8E<7M"L6(FXF%D(C"RR!% "8>,=*;
+MXA"K*.]&YVK$;C5U%D695E+EM$I#*4,O+0B=M(Q"4I(!.*5 D@W #P$+5!M%
+MMOI<Z!HJO.LNHZG,*I*G5+=:2M4JU'# 4H$@882H0($5$CQLZOMTL?\ XSBW
+MV,]O'[C7[$/\9_K/Y6_8_A_W>D?W)GW^+>_6\YX_WK\_^L]]G+V_DO\ AFOT
+M?*^']W_)_<]UHR?(S[6'>[J*[JO<<Z[YY!G7*?0#)W+X$SY3R;SOUS*>3</P
+M_C?6.6W>-\7?]6QMEZL]AY;VEVUT# \O$YO$C,K$Q(78F+//#AFC+PPM'.Y/
+MI?WK7]U=P=<Q?,P^4PX2B22;BDPY)9KY81OMD1=[*&&I,2]UO!MI&'XAT+PC
+M;PA\MR7-?4=O WN'P_T-N[]&WT9M^N&*<+M+'OC#FYO?&%_WV$G?1K 3B]T<
+MO 0CR</="S;- OLE=FFOG!>O>0,E1+N3Z^X3U-R-C:CIMTTZ=_*-O4'A<GRW
+MUW'>5YGX?+^DYN'ZY][Z?YCD.I8SG)<I-@8LHQ\;&XODQGFX<*>2^:S=V_\
+M1CLW.^5YSIV$CF^:DQ<.?R</"X/FPEAQ3R3\,ME\6$]K+,;IV]^];N<9ISQT
+M3R3Q<MXF9RF;>EWSK"MSC</B?%V\3@_$V^F1J'U9Y1'<G8\8*PN9Q?CE$</'
+MX9O",+O"-U@#3?IGS:^V>\(13B<O@?!,83X7%+XP_DOL5-!_L\=^.GGHMWY]
+M6.M";ISU;Z*].<T[SK@^9^%_%/+\;9R^SYASG!V_%V^L?<'UI]/LQZWV_P!)
+MY(XW+\UC8?#-)'RXP^+\,L?9;2T'Z1=^471.M]5YH86/RV#/'AFAYGC"'XHP
+M]MF5*.P/W+T?N#]V?<3QQ]$^]WIQVI<;$?EO1S(']O<+YGAX?S_U'G?WCYIN
+M^E>/4'TP/IUTCMR'\3TO&Y^$+^9QO-FA&>3BD^'R;,W_ $1ZB?Z[ZIUV;^'Z
+MC@\G&/#@87ERQA+/P3>/F0LLKR'>R5WHZB\[=Z&=<]J>H';WT8Z0YYPU!G/*
+M^:?G''Q_F,3V_!Q7F>%^1N^FIMMZZ=CY;R71.1Y<87.<SS&%$X>)A\,))9(7
+MX<L;XV5NX7HQWK7<WUCJ&/YG*<K@8L!/)B<49XSQ_'-"Z%F#^1[VY>R'0?WL
+M]XV9,E*>@/+9&[HL@X9',3ZL\3^W7"P+ ^:YGYAS?"W?K'.>ESMGZE]]Z@[%
+MZ+RV/_%_-Y#%F<EY>'G?%BRR\$L?PX=F%N-Z=]DY+WIU7'P#RL,+G<*"(XTW
+ME?#A31XX^^>V+=+799NVVZ)>^_T3Z@LNS+G(]ONW-B',6:.GORC*_.<3'N4^
+M-P./M^)M]&^KN]OXKKG8'7>75\<W-_+,F'C<4\(8<UT9?98+TGVA-2]$[XZ)
+MC"$LG*0GXY\*Z6,9Y>+Q]L+>0UD^RCWJW9P/OYZL=7WG'NV7I_DWK3FE1CW3
+M/-G\7<_G/?X/(?5N>V\C\/A^NW1'KAV-2<QV]T;DDR<]C8G+88EQL/RX84(S
+M\4OS.*-N76?HSWI4<OUSK/-*FY+!DYC$,V'B>9-B>$MT82<,MBR/IKNC_P#3
+M3MW:_F8IO[=GZ.W]+\7^OK)_ZE_ZN_DMWIZ=,/\ R5X^V,/VV%7D']J7N'6]
+MQ7N7YRZ469RYA/2+#^F73&/Y"Y;/O\;8KA>]B^+_ #+'^>YCXN]ZU-N?5KMH
+M=M=K\GS=3/-S$V-CKQ8X/E2S?+P^#"PY>&%N'<#TP[C3W'W'S?+L8<.7EPL)
+M&'\[S8RPQ,3BQ)YKXVLSTS9)[<; ]-.?Z==%K79$Q7#L5R?DACRWBN$?*L4P
+M?@\SRWP.-O;GY.SU%.J.?[ES'JDO4N>?Q98RXF*N>6;BEFC":^'C?:P=-\EV
+?[0=.FZ?R;.%-";#PTR32\,TL(RW1C"ZQO]85MJW_V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

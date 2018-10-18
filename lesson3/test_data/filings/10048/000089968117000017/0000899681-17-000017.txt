@@ -1,0 +1,841 @@
+<SEC-DOCUMENT>0000899681-17-000017.txt : 20170106
+<SEC-HEADER>0000899681-17-000017.hdr.sgml : 20170106
+<ACCEPTANCE-DATETIME>20170106140635
+ACCESSION NUMBER:		0000899681-17-000017
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20170106
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20170106
+DATE AS OF CHANGE:		20170106
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BARNWELL INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000010048
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				720496921
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05103
+		FILM NUMBER:		17513802
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1100 ALAKEA ST.
+		STREET 2:		SUITE 2900
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96813
+		BUSINESS PHONE:		808-531-8400
+
+	MAIL ADDRESS:	
+		STREET 1:		1100 ALAKEA ST.
+		STREET 2:		SUITE 2900
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96813
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BMA CORP/TN
+		DATE OF NAME CHANGE:	19770324
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BARNWELL OFFSHORE INC
+		DATE OF NAME CHANGE:	19671101
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>p17-0009_8k.htm
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: Stroock
+    Document created using EDGARfilings PROfile 4.2.0.0
+    Copyright 1995 - 2017 Summit Financial Printing, LLC.  All rights reserved.-->
+</head>
+<body style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" bgcolor="#ffffff" text="#000000">
+<div>
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 14pt; FONT-WEIGHT: bold">
+<hr style="BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; BACKGROUND-COLOR: #000000; HEIGHT: 1px; COLOR: #000000; MARGIN-LEFT: auto; BORDER-TOP: medium none; MARGIN-RIGHT: auto; BORDER-RIGHT: medium none" align="center" noshade="noshade">
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 14pt; FONT-WEIGHT: bold">&#160;</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 14pt; FONT-WEIGHT: bold">UNITED STATES</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 14pt; FONT-WEIGHT: bold">SECURITIES AND EXCHANGE COMMISSION</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Washington, DC 20549</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 18pt; FONT-WEIGHT: bold">FORM 8-K</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Current Report Pursuant to Section&#160;13 or 15(d)</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">of the Securities Exchange Act of 1934</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Date of Report (Date of earliest event reported):<font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold"> January 5, 2017</font></div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 24pt; FONT-WEIGHT: bold">BARNWELL INDUSTRIES, INC.</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(Exact Name of Registrant as Specified in its Charter)</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Delaware</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(State or Other Jurisdiction of Incorporation)</div>
+
+<table style="WIDTH: 100%; BORDER-COLLAPSE: collapse; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="z97845c3834ce4dccbeccab70739eaf8c" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 47.48%; VERTICAL-ALIGN: bottom">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+</td>
+<td style="WIDTH: 5.04%; VERTICAL-ALIGN: bottom">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+</td>
+<td style="WIDTH: 47.48%; VERTICAL-ALIGN: bottom">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 47.48%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">1-5103</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(Commission File Number)</div>
+</td>
+<td style="WIDTH: 5.04%; VERTICAL-ALIGN: bottom">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+</td>
+<td style="WIDTH: 47.48%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">72-0496921</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(IRS Employer</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Identification No.)</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">1100 Alakea Street, Suite 2900</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Honolulu, Hawaii&#160; 96813</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(Address of Principal Executive Offices) (Zip Code)</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(808)&#160;531-8400</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(Registrant's Telephone Number, Including Area Code)</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Not Applicable</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(Former Name or Former Address, if Changed Since Last Report)</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</div>
+
+<table style="WIDTH: 100%; BORDER-COLLAPSE: collapse; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="z979cdeb6f0dd47bbb9c59d597d311da2" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 2%; VERTICAL-ALIGN: bottom">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+</td>
+<td style="WIDTH: 2%; VERTICAL-ALIGN: bottom">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+</td>
+<td style="WIDTH: 96%; VERTICAL-ALIGN: bottom">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 2%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: Wingdings; FONT-SIZE: 10pt">&#61551;</div>
+</td>
+<td style="WIDTH: 2%; VERTICAL-ALIGN: bottom">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+</td>
+<td style="WIDTH: 96%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Written communications pursuant to Rule&#160;425 under the Securities Act (17 CFR 230.425)</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 2%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+</td>
+<td style="WIDTH: 2%; VERTICAL-ALIGN: bottom">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+</td>
+<td style="WIDTH: 96%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 2%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: Wingdings; FONT-SIZE: 10pt">&#61608;</div>
+</td>
+<td style="WIDTH: 2%; VERTICAL-ALIGN: bottom">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+</td>
+<td style="WIDTH: 96%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Soliciting material pursuant to Rule&#160;14a-12 under the Exchange Act (17 CFR 240.14a-12)</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 2%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+</td>
+<td style="WIDTH: 2%; VERTICAL-ALIGN: bottom">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+</td>
+<td style="WIDTH: 96%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 2%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: Wingdings; FONT-SIZE: 10pt">&#61551;</div>
+</td>
+<td style="WIDTH: 2%; VERTICAL-ALIGN: bottom">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+</td>
+<td style="WIDTH: 96%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Pre-commencement communications pursuant to Rule&#160;14d-2(b) under the Exchange Act (17 CFR 240.14d2(b))</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 2%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+</td>
+<td style="WIDTH: 2%; VERTICAL-ALIGN: bottom">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+</td>
+<td style="WIDTH: 96%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 2%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: Wingdings; FONT-SIZE: 10pt">&#61551;</div>
+</td>
+<td style="WIDTH: 2%; VERTICAL-ALIGN: bottom">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+</td>
+<td style="WIDTH: 96%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Pre-commencement communications pursuant to Rule&#160;13e-4(c) under the Exchange Act (17 CFR 240.13e4(c))</div>
+</td>
+</tr>
+</table>
+
+<div style="TEXT-ALIGN: left"><br>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"><u>Item 7.01</u></font>&#160; <font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"><u>Regulation FD Disclosure</u></font>.</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt">On January 5, 2017, Barnwell Industries, Inc. (the "Company") issued a press release announcing that it received distributions of $2,313,000 pursuant to the recent sale of the second of two large lots at Kaupulehu, North Kona, Hawaii, by Barnwell's 19.6% indirectly-owned Kukio Resort land development partnerships.&#160; Barnwell has a non-controlling interest in these Kukio land development partnerships.</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><u>Item 9.01</u></font>&#160; <font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><u>Financial Statements and Exhibits</u></font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">.</font></div>
+
+<div style="TEXT-ALIGN: left; MARGIN-BOTTOM: 12pt"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(d)</font><font style="FONT-SIZE: 5.14pt" id="TRGRRTFtoHTMLTab">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Exhibits</font></div>
+
+<table style="WIDTH: 100%; BORDER-COLLAPSE: collapse; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="zb2cc7195611b4717be2a441f8afb010d" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 16.89%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"><u>Exhibit No.</u></div>
+</td>
+<td style="WIDTH: 83.17%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"><u>Description</u></div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 16.89%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">99.1</div>
+</td>
+<td style="WIDTH: 83.17%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Press release dated January 5, 2017</div>
+</td>
+</tr>
+</table>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold">SIGNATURE</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 36pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt">Dated:&#160; January 5, 2017</div>
+
+<div><br>
+</div>
+
+<table style="WIDTH: 100%; BORDER-COLLAPSE: collapse; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="zcf56d3a9771648fb9ebaffce25829baa" border="0" cellspacing="0" cellpadding="0">
+<tr style="HEIGHT: 16px">
+<td style="WIDTH: 1132px; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 443px; VERTICAL-ALIGN: top" colspan="3">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">BARNWELL INDUSTRIES, INC.</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 1132px; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 443px; VERTICAL-ALIGN: top" colspan="3">&#160;</td>
+</tr>
+
+<tr style="HEIGHT: 16px">
+<td style="PADDING-BOTTOM: 2px; WIDTH: 1132px; VERTICAL-ALIGN: top">&#160;</td>
+<td style="PADDING-BOTTOM: 2px; WIDTH: 3.17%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">By:</div>
+</td>
+<td style="BORDER-BOTTOM: #000000 1px solid; WIDTH: 408px; VERTICAL-ALIGN: top" colspan="2">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">/s/ Alexander C. Kinzler</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 1132px; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 3.17%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 4.89%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: -18pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-LEFT: 18pt; FONT-SIZE: 10pt">Name:</div>
+</td>
+<td style="WIDTH: 21.59%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: -18pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-LEFT: 18pt; FONT-SIZE: 10pt">Alexander C. Kinzler</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 1132px; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 3.17%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 4.89%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: -18pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-LEFT: 18pt; FONT-SIZE: 10pt">Title:</div>
+</td>
+<td style="WIDTH: 21.59%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0.2pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Chief Executive Officer and President</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; MARGIN-BOTTOM: 24pt"><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 24pt; FONT-SIZE: 10pt">&#160;</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 24pt; FONT-SIZE: 10pt">&#160;</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 24pt; FONT-SIZE: 10pt">&#160;</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 24pt; FONT-SIZE: 10pt"><u>Exhibit Index</u></div>
+
+<div><br>
+</div>
+
+<table style="WIDTH: 100%; BORDER-COLLAPSE: collapse; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="z53b8c17d0a5242bb966ff4136294acf2" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 15.87%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"><u>Exhibit No.</u></div>
+</td>
+<td style="WIDTH: 84.13%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"><u>Description</u></div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 15.87%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">99.1</div>
+</td>
+<td style="WIDTH: 84.13%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Press release dated January 5, 2017</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<div style="MARGIN-BOTTOM: 24pt"><br>
+</div>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>p17-0009_ex99.htm
+<DESCRIPTION>PRESS RELEASE DATED JANUARY 5, 2017
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: Stroock
+    Document created using EDGARfilings PROfile 4.2.0.0
+    Copyright 1995 - 2017 Summit Financial Printing, LLC.  All rights reserved.-->
+</head>
+<body style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" bgcolor="#ffffff" text="#000000">
+<div>
+<div style="TEXT-ALIGN: right; FONT-WEIGHT: bold">Exhibit 99.1</div>
+
+<div style="TEXT-ALIGN: right; FONT-WEIGHT: bold">&#160;</div>
+
+<div style="TEXT-ALIGN: right; FONT-WEIGHT: bold">&#160;</div>
+
+<div style="TEXT-ALIGN: left">&#160;</div>
+
+<div style="TEXT-ALIGN: left">&#160;</div>
+
+<div style="TEXT-ALIGN: left">
+<table style="WIDTH: 100%; BORDER-COLLAPSE: collapse; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="zb966aa8059d74a4abdfac2ea00845446" cellspacing="0" cellpadding="0">
+<tr>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-TOP-COLOR: ; WIDTH: 7.94%; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: top; BORDER-LEFT-COLOR: ">
+<div>&#160;</div>
+
+<div style="TEXT-ALIGN: left"><img style="WIDTH: 131px; HEIGHT: 98px" src="image0.jpg"></div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-TOP-COLOR: ; WIDTH: 66.1%; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: top; BORDER-LEFT-COLOR: ">
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 18pt; FONT-WEIGHT: bold">BARNWELL INDUSTRIES, INC.</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-TOP-COLOR: ; WIDTH: 26.22%; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: top; BORDER-LEFT-COLOR: ">
+<div style="TEXT-ALIGN: left"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 18pt; FONT-WEIGHT: bold"><u>P&#160; R&#160; E&#160; S&#160; S</u></font><font style="FONT-SIZE: 5.05pt" id="TRGRRTFtoHTMLTab">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">R&#160;&#160; E&#160;&#160; L&#160;&#160; E&#160;&#160; A&#160;&#160; S&#160;&#160; E</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">1100 Alakea Street, Suite 2900</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Honolulu, Hawaii 96813</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Telephone (808) 531-8400</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Fax (808) 531-7181</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Website:&#160; www.brninc.com</div>
+
+<div>&#160;</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left">&#160;</div>
+
+<div style="TEXT-ALIGN: left">&#160;</div>
+
+<div style="TEXT-ALIGN: left">&#160;</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div>
+<div><br>
+</div>
+
+<table style="WIDTH: 100%; BORDER-COLLAPSE: collapse; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="z4a584040b40c4fbcb5aa9a58dd6b4ef2" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 8.95%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">CONTACT:</div>
+</td>
+<td style="WIDTH: 91.11%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Alexander C. Kinzler</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 8.95%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 91.11%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Chief Executive Officer and President</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 8.95%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 91.11%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 8.95%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 91.11%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Russell M. Gifford</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 8.95%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 91.11%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Executive Vice President and Chief Financial Officer</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 8.95%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 91.11%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 8.95%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 91.11%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 8.95%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 91.11%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">BARNWELL INDUSTRIES, INC. REPORTS RECEIPT OF DISTRIBUTIONS</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: #000000 1pt solid; WIDTH: 8.95%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="BORDER-BOTTOM: #000000 1pt solid; WIDTH: 91.11%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">HONOLULU, HAWAII, January 5, 2017 -- Barnwell Industries, Inc. (NYSE-MKT: BRN) announced today that it received distributions of $2,313,000 pursuant to the recent sale of the second of two large lots at Kaupulehu, North Kona, Hawaii, by its 19.6% indirectly-owned Kukio Resort land development partnerships. Barnwell has a non-controlling interest in these Kukio land development partnerships.</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Mr. Alexander C. Kinzler, Chief Executive Officer and President commented, "This distribution will further improve our cash position and liquidity and we anticipate recognition of additional equity in income in our quarter ended December 31, 2016 as a result of this recent sale transaction."</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">The information contained in this press release contains "forward-looking statements," within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended.&#160; A forward-looking statement is one which is based on current expectations of future events or conditions and does not relate to historical or current facts.&#160; These statements include various estimates, forecasts, projections of Barnwell's future performance, statements of Barnwell's plans and objectives, and other similar statements.&#160; Forward-looking statements include phrases such as "expects," "anticipates," "intends," "plans," "believes," "predicts," "estimates," "assumes," "projects," "may," "will," "will be," "should," or similar expressions.&#160; Although Barnwell believes that its current expectations are based on reasonable assumptions, it cannot assure that the expectations contained in such forward-looking statements will be achieved.&#160; Forward-looking statements involve risks, uncertainties and assumptions which could cause actual results to differ materially from those contained in such statements.&#160; The risks, uncertainties and other factors that might cause actual results to differ materially from Barnwell's expectations are set forth in the "Forward-Looking Statements," "Risk Factors" and other sections of Barnwell's annual report on Form 10-K for the last fiscal year and Barnwell's other filings with the Securities and Exchange Commission.&#160; Investors should not place undue reliance on the forward-looking statements contained in this press release, as they speak only as of the date of this press release, and Barnwell expressly disclaims any obligation or undertaking to publicly release any updates or revisions to any forward-looking statements contained herein.</div>
+</div>
+
+<br>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>image0.jpg
+<TEXT>
+begin 644 image0.jpg
+M_]C_X  02D9)1@ ! 0$ W #<  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1" #B 2X# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+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
+M HHHH **** "BBB@ HHHH **** "L;Q5XCM/"?AJ]UJ]/[NVCW*F3F5SPJ#
+M."S$#..,Y/ K9KY@^/WC,ZSXG3P[:3!K'2S^^V-E7N".>A(.P';T!#&0&@#R
+M_7=:O/$6NWFKW[AKF[E,C[<[5]%7))"@8 &> !75?#/X;WGC_6"'9[;1[8@W
+M=THY/I&F>"Y]>BCDYX!Y70]&O/$.N66D6$>^ZNY1$G!(7/5FP"0H&23C@ FO
+M?_'?B#3_ (1>!+;P=X>4IJUW;Y>YC!C90?E>X)SG>Q!"C/RXZ@*H(!F_%#XD
+M6?A?36\!>"T2U2V3R+BX@;B$?Q1H>I?.=S$Y!)_BR1X%16QX8\,:IXNUR'2-
+M(@\VXDY9FX2)!U=SV49_4  D@$ IZ7I5]K>IP:;IEK)=7D[;8XHQDD_T '))
+MX !)XKW_ ,$_L]64$$5[XOF>YN&4,=/@<K''D'(=U.6(RI^4J 0>6%>D>!/
+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
+M\EI*463 'F(>4? )QN4JV,\9Q6?97EQI]];WMI(8KFWE6:*0 $JZG(//H0*
+M.H^)GA$^"_'%[IL:!;*4_:;+#9_<L3@<DGY2&7GD[<]ZY"OH?XQ6-KXS^%VC
+M>.[1(XYH(XVF59 V(Y2%9"VW+,DA '0#+\9KYXH ^@OV</$\CIJGAB8LPC'V
+MVVX)VC(209SP,E" !W8U[[7Q-\/=9.@?$#0]1\V.*-+M(YI)?NK$YV.3Z85B
+M<]NM?;/;F@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH ^3_C[JCW_P 3
+MY[0Q[5T^VBMU.[._</-W8[?ZS'_ :H?!71CK'Q1TPO;">WL0]Y-EL;-B_(W7
+M)Q(8^!G\LUC_ !(OKC4?B3XCGN7WR+?RP@X PD;&-!QZ*JC\*])_9JTU)==U
+M[5"S;[>VCMPN>")&+$]/^F0[]S^ !QGQGUD:S\4=6,=P9K>S*V<65QLV* ZC
+M([2&3GWXXQ7 U:U*_GU35+O4;EMUQ=3//*V ,LS%B>,#J>U6_#.E+KGBG2=*
+M?>([R\B@<QC+*K. Q'T!)_"@#ZW^%7AO_A%_AWI=I)$8[J=/M5R&C*-YDG.&
+M!Y#*NU#_ +M=G1T&!10 5B>,-4DT7P9K>I0W"6]Q;6,TD$CXP) AV<'@G=M
+M'<D"MNO,?CYJ2V'PNN;<J2;^YAME(_A(;S<GVQ&1^- 'R=71^ ]1TG1_&^F:
+MIK8D-C9.UR1$"6,B(S1@8[F0)U('J0,USE7;/2-2U&UNKJRT^ZN8+1=]S)#"
+MSK"N"<N0/E&%;D^AH ]ZUKQ5XM^*F@ZA#HNC6FD>%UBD>;4M7 (E1=W*DJ0I
+M 4Y*AMI'WAQ7EWPMT+7-;\6LWAR^MK+5;&V:Z@DN4#(?F6,@Y5L'$A(.#T[=
+M1G:%X<TG5]!U*]N?$]II]_9Q22QV$\9#7"JH(".2%+,25"C)XSBJ_A/P_;>(
+M]7:SO-<L-&MXX6F>YO7"J<8 502-S$GID< GM@@'N6I_%2[ATO5?"'Q!TA]#
+MU2[L)8ENX%\V B1' ;:I)Q]U?E+Y;=G;@@?.%;,V@M=>()=+\-RS:\H ,4MK
+M:2*9!M!8["-P )(R?3-9^H6%UI6HW.GWL1BNK:5H9HR0=KJ<$9'!Y'4<4 =?
+M\(-7&C_%+1)7DF6*XE-JZQ'[_F*44,,\KO*$_3/4"OL>O@K3+^;2M5L]1MCB
+M>TG2>,D X96##K[BOO.-DDB5T8,C#<&'<'O0 ZBBB@#Y]_:2\/XDT;Q'%&V&
+M#6,[[A@$9>,8ZY/[WGV'3C/@5?8?QDTK^UOA;K*+#')-;(MU&SKG9Y; LPX.
+M#LWCZ$]LU\>4 ?1?P7DB\6?";7O"4TH\V,RQ+N0L(HYD.QN>,AQ(>/05\Z5[
+M+^SCJ<EOXUU+33<(EO=V)D\IL9DDC==N"><A7DX';)/3CSOQYI_]E>/]?LQ;
+MQVT:7\QBAC"A4C9BR !> -I7CMTH YZON7PAJ<NL^#-%U*>99I[FQADFD7 #
+M2%!OX' ^;/':OAJOKOX'3"7X2Z0HW9B:=&SZ^<YX_ B@#T2BBB@ HHHH ***
+M* "BBB@ HHHH **** "CM110!\+>*+T:CXNUJ^">6+F_GF"$YV[I&.,_C7K7
+MP!=XO#_CJ2-V1TM865E."I"3X((Z&O*?&-O#9^-]?M;==D$.I7$<:Y)PHD8
+M9/)XKV']FVWBN[;Q=;3+NBE2VC=<D94B8$9'/2@#P2N^^"L23?%S0EDC5U4S
+M-AER 1#(0?P."/?%<#7=_!JXBM?BUH,DS;5+RQ@XS\S1.JC\R* /L2BBB@ K
+MP']I75&":!I"7"X)EN9H1C/&U8V]0.91[\^E>_5\G_'W4OMWQ1GM]FW[!:PV
+M^?[V1YN?_(F/PH \PKZ.^".HZ/X0^&=WK&NW-GIZWE](T<TK*))XT10  /F;
+M#>9A0">3@<\_.-% 'IWQ,\3^$/%VH2#POX9D%\&>2748U,7FJN]G8PKD,",N
+M9&PV!R,"O/\ 2(2]^EP^FS:C:6A6XNX(RPW0JPW;F4913G&[MD5ZGHGBOQ[X
+M9T>6'1/AM;6%M)$2]Q%I%T79>2&:1G)8#<2-Q( ]JX[X<:_XD\.>(;B\\+Z1
+M_:E\]HT3P_9I)]L9="6VQD$<A1GIS[T >W_#[XK_  \2SATJULX_#3[4#1S(
+M!%(^W!)F'WB HR\FTG(ZFO*/CC!;'XBOJEG?17EMJMG#=1R0D%  #%@,"0W^
+MJSGCKCM6;X]N]=U-TU'7/!%OH4\LF&NX;">U\]CN8AM[%68DDDXW''7 KB:
+M"OM+X8:E%JOPR\.W$*NJI9);D.,'=%F)CUZ$H2/;%?%M?4O[/.IO>_#R:REF
+M#FQO7CCCP 4C8*X_-FDY/]* /6J*** .?\=_\D\\3?\ 8*NO_135\05]P^."
+MH\ >)"R[E&EW)*YQD>4W%?#U 'H7P0D9/BYHJJ<!Q.K>X\B0_P P*@^,T(@^
+M+6O(#G+Q/_WU"C?UJQ\#XFD^+>CLI \M9V.?^N+C^M5_C+-Y_P 6M>?;MP\2
+M8S_=B1?Z4 <)7U%^SI+))\.KQ7D9ECU214#'(4>7$<#T&23]2:^7:^I?V=[6
+M:W^&\\LJ;4N-1EEB.?O*$C3/_?2L/PH ]:HHHH **** "BBB@ HHHH ****
+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
+M- !1110 4444 %%%% !1110 4444 %%%% !1110 5X-^T+X(\ZVA\86,*!H
+ML&H8(4LI(6-_<@G:>IP5[*<>\U%=6T%[:36ES$LMO/&T<L;C(=6&"#[$&@#X
+M)@GFM;B*XMY9(9XG#QR1L59&!R"".00>]?0-W!!\=/AHM[:PQKXPT<"-U,@7
+MS3W'IM< E<@;6!&0-Q/DWQ"\#WO@7Q--8S1R&PE9GL;ACN$L6>,D #>,@,,#
+MGG&""<OPQXGU3PAKL.KZ1/Y=Q'\K*V2DJ'JCCNIP/Q (P0" #+FAEMIY()XG
+MBFB8I)&ZE61@<$$'D$'M4=?0GB3PMHWQE\/CQ3X5>"'Q(D*&[L_-'SG'^K?(
+M&'X(5R & YXY7Y_G@FM;B6WN(I(9XG*21R*59&!P00>00>U $=%%=7X%G\&I
+MJ4L'C.SNI+64+Y5S!*P\@C.=RKRRG(Y&2-O0YX .4HKZETCX1_"[7K$7NDYO
+M+8G!DAOG8*< X//! 89!Y&>:T/\ A0_@+_H'W/\ X%O_ (T ?)5%?6A^ W@,
+M@C[!=#W%V_\ C7AWP;\(Z3XS\876GZS'));16+SJL<A3+!XU&2.<88T >>45
+M]:_\*'\!?] ^Y_\  M_\:3_A1'@+_H'W/_@6_P#C0!\ET5]$>*O"'P:\'I(N
+MIM,UVG!LK>\>2?.,@%0?ER"""Q .>M>%:_<Z5=ZQ/)HFGO8Z=G;##)*9'P/X
+MF)[GK@<#ISC) .OTOXN:UHGPX'A/3HQ;RK(^S4%DP\<3$L54 <-N)^?.0"<
+M'!'GM%:WAOPWJGBO6H=*TBV::XDY8X.V),@%W/91D<^X')(% $_@_P *7_C/
+MQ);Z-IXP\F6EF*DK#&/O.V.W0>Y('>O8OBWXEL/!/A"S^'/AN3#>1MNY!*?,
+MBB)SM;;@;I"26Z?*?NX<8V=0U#P[\!/" T[3MM]XCOD#G?P96&1YDF.5B4D[
+M5!R>0#]YA\VWEW/?WMQ>74IEN+B1I99&ZN['))^I- $-=%X&\*7/C3Q;9Z/
+M'$3MON95_P"64((WMG!P<<#/&2!WK BBDGF2&&-Y)9&"HB*2S,>  !U)KZV^
+M$?PY7P/H'VB_AC_MV]&;EP=QB3JL0/3CJV.K=R IH [^SM(+"Q@L[6)8K>WC
+M6**->BHHPH_  5/110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%%
+M ',>.?!&F^/- ;3;_,4R'?:W2#+028ZX_B4]"O<>A (^/?$OAO4O">NW&CZK
+M$$N83]Y#E)%/1U/=3^?8@$$#[IKD_'7P^T?QYI;6]^GE7D:D6MZ@^> _3C<O
+M'*GU."#@@ ^1/#'B?5/".N0ZOI$_E7$?#*W*2H>J..ZG'Z @@@$>ZM;^#/CU
+M82RVX.B>)[8(TKE [E. 20"/-3G;NX92%S@$!O"_$_A;5O"&M2Z7J]L8ID/R
+M2#)CF7LZ-_$I_,=" 0165!/-:W$5Q;RR0SQ.'CDC8JR,#D$$<@@]Z -OQ7X,
+MUSP7J0L]:LS%O+>3,AW13@'!*-^1P<$9&0,U@5[5X4^-\=Y8?\(_\0+&+4M,
+ME58S="$,P^;.94Z,!\I!4!ALSAB<U>U+X(:#XJM6UCX?^(K4VCA<6TS%TC8X
+M)!<9="%*_(RE@>IYX /$M/U34-(N3<Z9?W5E.5VF6VF:-MO7&5(..!^5>CZ%
+M\?/&6ELJ7[VVK6^Y=PN(]D@0=0KIC!([L&YYY[\9KW@GQ-X8,AUC1+RUC0J&
+MG*;X<GH/,7*$^P-8% 'V%\,_B9'\18=2(TM]/EL6CW+YWFJRN&P0<+SE&R,>
+MG/IX[^SC_P E#U#_ +!4G_HV*N@_9E_YFG_MT_\ :U<_^SC_ ,E#U#_L%2?^
+MC8J .M\:_'VYT+6]4T33-"B:XLY_)2ZN9R5)4C=F-0#Z@?/Z'VKRG7/BYXWU
+MTNLNN3VL#.76&R_<!>VW<OSE?9F-4/B1_P E*\1_]A"7_P!"-<O0 45VOA_X
+M3>,_$4J^3HTUG 2,W%^# @!&00&&YA_N@]17JFG_  J\"?#NWAU3QUK,%Y<?
+M?C@ERL604SMB&7FPW!_A*MRHH \L\#_"[Q%XXGCDMK=K32R1OU"X0B/;D@^6
+M/^6A&UA@< C!*YKU[7?%/A/X):9+H'AFT%UKLJ*\ID._#<;3.P(.2"2$7'4G
+M"[@3QOC+X\:AJ%L=*\)6QT;3501K, !.4QC"@<1#TVY(P"".E>.DDDDG)/4F
+M@"YJNJWVMZI<:GJ=S)<WEP^^65SRQ_D !@ #@  #@53HKWWX6_ ^43V^N^+[
+M=!$$\R#2Y5R23T,P/  '.SKD_-C!4@$WP/\ A<BPP>+]<MV\XD/IL$@&T+CB
+M8CN>?ESTQNYRI'OE%% !1110 4444 %%%% !1110 4444 %%%% !1110 444
+M4 %%%% !1110!EZ_X=TGQ1I3Z;K-E'=6K$,%;@JPZ,I'*GD\CL2.A-?,OC_X
+M*:WX4^TZCI>[4]%CW2&1<>= @Q_K%[X!^\O&%)(45]744 ? %7-,U;4=%O5O
+M-+OKBSN5&!+!(4;'H<=1QTZ5]9>,?@[X5\7/-=&W;3M2D)8W5GA=[')RZ?=;
+M+-DGACC[U>&^)_@9XOT R365NFL6:DD26?\ K0N<#,1^;)ST7=CGF@#2\/\
+M[0WBC3F":S;VNKPY)+%1!+TX 9!MP.OW,^]=')XZ^#/BV5O[<\/-82L3(\[6
+MI0NQZY> [V/U'>O KBWFM+B2WN89(9XF*21R*59&'4$'D&HZ /JSP3XB^$6@
+M2WD?AK5+.P:Y17F-Q-,@<)G',_&?G/ Y/X<>0_ C6K'0_'\TVHWMK9VTMA)$
+M9;J41KG<C 9) S\M>8T4 ?2&LW'P(N];O;W4IXKB]EG9II(WNW5GSR1L^4C/
+M<<<\54/QF^'OAD2'PKX2+72@1K+';16JR)QG,@R_YKR?SKYZHH ]6\1_'[Q9
+MJ[-'I8@T>V.0!"/,E((P0788ZY(*JI'K7F%Y>W6H7<EW>W,US<R'+S3R%W8]
+M.6/)J"NG\.?#SQ5XJ>(Z7HURUO(-PNY5\N#:&VDAVP&P>RY/!XX- ',5M>&O
+M">M^+M1%EHMA+<,& DE Q'#D$@N_11A3C/7&!D\5[EX/_9VL[1_M/BV\6]<'
+MY;2S=EB(Y^\^ QZ@X&W&.IS7M&FZ5I^C6*66F64%G;)]V*",(N?7 [^] 'G?
+MP[^#.D^#C'J.I%-2UH!661E_=6[#KY8/4Y_C// P%YSZ?110 4444 %%%% !
+M1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 4=
+M2T;2]9B6/5--L[Y$R46Y@64+GT# ^@_*N'U/X&^ ]1BF$>ERV,TK;O.M;EP4
+M.<G:K%D [8VX /&.*]&HH \2U']FS1)?+_LS7M0ML9\S[3&D^[IC&W9COZYR
+M.G?-/[,HR<>+L#MG3?\ [;7O]% '@UM^S/;+,ANO%,TL0<%UBLA&Q7/(!+M@
+MXSS@_0UTEA^SWX)L[GS9VU.^3:1Y5Q<@+GU_=JIS^.*]5HH YO1OA_X2\/F)
+MM-\/V,4L+;HYGC\R5#G.1(^6[^M=)110 4444 %%%% !1110 4444 %%%% !
+M1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%
+M%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 444
+M4 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110
+; 4444 %%%% !1110 4444 %%%% !1110!__9
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

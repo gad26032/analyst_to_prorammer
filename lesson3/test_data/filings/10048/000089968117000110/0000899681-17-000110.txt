@@ -1,0 +1,632 @@
+<SEC-DOCUMENT>0000899681-17-000110.txt : 20170306
+<SEC-HEADER>0000899681-17-000110.hdr.sgml : 20170306
+<ACCEPTANCE-DATETIME>20170306172728
+ACCESSION NUMBER:		0000899681-17-000110
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20170306
+ITEM INFORMATION:		Submission of Matters to a Vote of Security Holders
+FILED AS OF DATE:		20170306
+DATE AS OF CHANGE:		20170306
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BARNWELL INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000010048
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				720496921
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05103
+		FILM NUMBER:		17668915
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1100 ALAKEA ST.
+		STREET 2:		SUITE 2900
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96813
+		BUSINESS PHONE:		808-531-8400
+
+	MAIL ADDRESS:	
+		STREET 1:		1100 ALAKEA ST.
+		STREET 2:		SUITE 2900
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96813
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BMA CORP/TN
+		DATE OF NAME CHANGE:	19770324
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BARNWELL OFFSHORE INC
+		DATE OF NAME CHANGE:	19671101
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>p17-0084_8k.htm
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: Stroock
+    Document created using EDGARfilings PROfile 4.2.1.0
+    Copyright 1995 - 2017 Summit Financial Printing, LLC.  All rights reserved.-->
+</head>
+<body style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" bgcolor="#ffffff" text="#000000">
+<div><br>
+<div>
+<hr style="BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; BACKGROUND-COLOR: #000000; HEIGHT: 1px; COLOR: #000000; MARGIN-LEFT: auto; BORDER-TOP: medium none; MARGIN-RIGHT: auto; BORDER-RIGHT: medium none" align="center" noshade="noshade">
+</div>
+
+<div><br>
+ &#160;</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 14pt; FONT-WEIGHT: bold">UNITED STATES</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="FONT-SIZE: 14pt">SECURITIES AND EXCHANGE COMMISSIO</font>N</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Washington, DC 20549</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 18pt; FONT-WEIGHT: bold">FORM 8-K</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Current Report Pursuant to Section&#160;13 or 15(d)</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold">of the Securities Exchange Act of 1934</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 12pt">Date of Report (Date of earliest event reported):<font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold"> March 6, 2017</font></div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 24pt; FONT-WEIGHT: bold">BARNWELL INDUSTRIES, INC.</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 12pt">(Exact Name of Registrant as Specified in its Charter)</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Delaware</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt">(State or Other Jurisdiction of Incorporation)</div>
+
+<table style="WIDTH: 100%; BORDER-COLLAPSE: collapse; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="ze42cfeb3903e4f68ae8fed7d6a04bddc" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 47.49%; VERTICAL-ALIGN: bottom">&#160;</td>
+<td style="WIDTH: 5.03%; VERTICAL-ALIGN: bottom">&#160;</td>
+<td style="WIDTH: 47.49%; VERTICAL-ALIGN: bottom">&#160;</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 47.49%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">1-5103</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(Commission File Number)</div>
+</td>
+<td style="WIDTH: 5.03%; VERTICAL-ALIGN: bottom">&#160;</td>
+<td style="WIDTH: 47.49%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">72-0496921</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(IRS Employer</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Identification No.)</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">1100 Alakea Street, Suite 2900</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Honolulu, Hawaii&#160; 96813</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt">(Address of Principal Executive Offices) (Zip Code)</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(808)&#160;531-8400</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt">(Registrant's Telephone Number, Including Area Code)</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Not Applicable</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt">(Former Name or Former Address, if Changed Since Last Report)</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-LEFT: 18pt; FONT-SIZE: 10pt">&#160;&#160; Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+
+<div>
+<table style="WIDTH: 100%; BORDER-COLLAPSE: collapse; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="z2453e5a2a11f48ba98966736f031594f" cellspacing="0" cellpadding="0">
+<tr>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-COLOR: #000000; WIDTH: 2.98%; BORDER-TOP-WIDTH: 0px; BORDER-RIGHT-COLOR: #000000; VERTICAL-ALIGN: top; BORDER-LEFT-COLOR: #000000; BORDER-LEFT-WIDTH: 0px">&#160;&#9744;</td>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-LEFT: #000000 0px solid; WIDTH: 97.02%; VERTICAL-ALIGN: top; BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Written communications pursuant to Rule&#160;425 under the Securities Act (17 CFR 230.425)</div>
+</td>
+</tr>
+
+<tr style="HEIGHT: 14px">
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-LEFT: #000000 0px solid; WIDTH: 2.98%; VERTICAL-ALIGN: top; BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-LEFT: #000000 0px solid; WIDTH: 97.02%; VERTICAL-ALIGN: top; BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-LEFT: #000000 0px solid; WIDTH: 2.98%; VERTICAL-ALIGN: top; BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid">&#160;&#9744;</td>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-LEFT: #000000 0px solid; WIDTH: 97.02%; VERTICAL-ALIGN: top; BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Soliciting material pursuant to Rule&#160;14a-12 under the Exchange Act (17 CFR 240.14a-12)</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-LEFT: #000000 0px solid; WIDTH: 2.98%; VERTICAL-ALIGN: top; BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-LEFT: #000000 0px solid; WIDTH: 97.02%; VERTICAL-ALIGN: top; BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-LEFT: #000000 0px solid; WIDTH: 2.98%; VERTICAL-ALIGN: top; BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid">&#160;&#9744;</td>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-LEFT: #000000 0px solid; WIDTH: 97.02%; VERTICAL-ALIGN: top; BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Pre-commencement communications pursuant to Rule&#160;14d-2(b) under the Exchange Act (17 CFR 240.14d&#8209;2(b))</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-LEFT: #000000 0px solid; WIDTH: 2.98%; VERTICAL-ALIGN: top; BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-LEFT: #000000 0px solid; WIDTH: 97.02%; VERTICAL-ALIGN: top; BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-LEFT: #000000 0px solid; WIDTH: 2.98%; VERTICAL-ALIGN: top; BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid">&#160;&#9744;</td>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-LEFT: #000000 0px solid; WIDTH: 97.02%; VERTICAL-ALIGN: top; BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Pre-commencement communications pursuant to Rule&#160;13e-4(c) under the Exchange Act (17 CFR 240.13e&#8209;4(c))</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>&#160;</div>
+
+<div>
+<hr style="BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; BACKGROUND-COLOR: #000000; HEIGHT: 1px; COLOR: #000000; MARGIN-LEFT: auto; BORDER-TOP: medium none; MARGIN-RIGHT: auto; BORDER-RIGHT: medium none" align="center" noshade="noshade">
+<br>
+</div>
+
+<div style="MARGIN-BOTTOM: 12pt"><br>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="FONT-VARIANT: normal; FONT-STYLE: normal; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="FONT-VARIANT: normal; FONT-STYLE: normal; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><u>Item 5.07</u></font>&#160;&#160; <font style="FONT-VARIANT: normal; FONT-STYLE: normal; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><u>Submission of Matters to a Vote of Security Holders</u></font></font>.</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-BOTTOM: 12pt">
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="z3f0f6441af06427fb785114bd01f70ab" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 39px; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; VERTICAL-ALIGN: top; align: right">(a)</td>
+<td style="TEXT-ALIGN: left; WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">On March 6, 2017, Barnwell Industries, Inc. ("Barnwell") held an annual meeting of stockholders.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(b)</font><font style="FONT-SIZE: 5.14pt" id="TRGRRTFtoHTMLTab">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">At the meeting, stockholders voted on the election of directors, an advisory (non-binding) vote on executive compensation, an advisory (non-binding) vote on the frequency of the advisory vote on executive compensation and the ratification of KPMG, LLP as the independent auditors for fiscal year 2017.&#160; A total of 7,774,838 shares of Barnwell's common stock outstanding and entitled to vote were present at the meeting in person or by proxy. All nominees were elected, the vote on executive compensation was approved and the ratification of KPMG LLP as the independent auditors for fiscal year 2017 was approved.&#160; Considering that highest vote total with respect to the vote on the frequency of the advisory vote on executive compensation reflected a preference for a vote every 3 years, Barnwell's Board of Directors resolved to have Barnwell conduct such advisory vote every 3 years until the next required vote on the frequency of the advisory vote on executive compensation.&#160; Barnwell is required to hold votes on frequency every six years.&#160; The results of the meeting were as follows:</font></div>
+
+<div><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; BORDER-COLLAPSE: collapse; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="z673201b3517040998bfdfe2c5911e71b" cellspacing="0" cellpadding="0">
+<tr>
+<td style="PADDING-BOTTOM: 1pt; MARGIN-TOP: 0px; WIDTH: 45.14%; MARGIN-BOTTOM: 0px; HEIGHT: auto; VERTICAL-ALIGN: bottom; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM: #000000 1pt solid; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.33%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;For</div>
+</td>
+<td style="PADDING-BOTTOM: 1pt; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM: #000000 1pt solid; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.59%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Withheld/ Against</div>
+</td>
+<td style="PADDING-BOTTOM: 1pt; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 14px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM: #000000 1pt solid; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.21%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;Abstain</div>
+</td>
+<td style="PADDING-BOTTOM: 1pt; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM: #000000 1pt solid; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 12.44%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Broker Non-Votes</div>
+</td>
+<td style="PADDING-BOTTOM: 1pt; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="PADDING-BOTTOM: 1pt; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 11.11%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+</tr>
+
+<tr style="HEIGHT: 16px">
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-TOP-COLOR: ; WIDTH: 45.14%; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">1.&#160; Directors</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-TOP-COLOR: ; WIDTH: 9.33%; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-TOP-COLOR: ; WIDTH: 15px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-TOP-COLOR: ; WIDTH: 9.59%; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-TOP-COLOR: ; WIDTH: 14px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-TOP-COLOR: ; WIDTH: 9.21%; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-TOP-COLOR: ; WIDTH: 15px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-TOP-COLOR: ; WIDTH: 12.44%; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-TOP-COLOR: ; WIDTH: 15px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; BORDER-TOP-COLOR: ; WIDTH: 11.11%; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 45.14%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.33%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.59%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 14px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.21%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 12.44%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 11.11%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+</tr>
+
+<tr style="HEIGHT: 18px">
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 45.14%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Morton H. Kinzler</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.33%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">4,480,152</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.59%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">1,819,411</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 14px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.21%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 12.44%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">1,475,275</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 11.11%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 45.14%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Martin Anderson</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.33%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">4,980,753</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.59%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">1,318,810</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 14px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.21%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 12.44%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">1,475,275</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 11.11%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 45.14%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Murray C. Gardner</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.33%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">5,055,237</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.59%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">1,244,326</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 14px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.21%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 12.44%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">1,475,275</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 11.11%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+</tr>
+
+<tr style="HEIGHT: 19px">
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 45.14%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Alexander C. Kinzler</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.33%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">4,445,806</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.59%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">1,853,757</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 14px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.21%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 12.44%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">1,475,275</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 11.11%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+</tr>
+
+<tr style="HEIGHT: 19px">
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; PADDING-LEFT: 0px; WIDTH: 45.14%; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; MARGIN-LEFT: 0px; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Russell M. Gifford</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; PADDING-LEFT: 0px; WIDTH: 9.33%; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; MARGIN-LEFT: 0px; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">4,478,272</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; PADDING-LEFT: 0px; WIDTH: 15px; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; MARGIN-LEFT: 0px; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; PADDING-LEFT: 0px; WIDTH: 9.59%; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; MARGIN-LEFT: 0px; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">1,821,291</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; PADDING-LEFT: 0px; WIDTH: 14px; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; MARGIN-LEFT: 0px; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; PADDING-LEFT: 0px; WIDTH: 9.21%; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; MARGIN-LEFT: 0px; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; PADDING-LEFT: 0px; WIDTH: 15px; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; MARGIN-LEFT: 0px; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; PADDING-LEFT: 0px; WIDTH: 12.44%; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; MARGIN-LEFT: 0px; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">1,475,275</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; PADDING-LEFT: 0px; WIDTH: 15px; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; MARGIN-LEFT: 0px; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; PADDING-LEFT: 0px; WIDTH: 11.11%; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; MARGIN-LEFT: 0px; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; PADDING-LEFT: 0px; WIDTH: 45.14%; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; MARGIN-LEFT: 0px; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Kevin K. Takata</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; PADDING-LEFT: 0px; WIDTH: 9.33%; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; MARGIN-LEFT: 0px; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">5,015,427</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; PADDING-LEFT: 0px; WIDTH: 15px; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; MARGIN-LEFT: 0px; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; PADDING-LEFT: 0px; WIDTH: 9.59%; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; MARGIN-LEFT: 0px; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">1,284,136</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; PADDING-LEFT: 0px; WIDTH: 14px; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; MARGIN-LEFT: 0px; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; PADDING-LEFT: 0px; WIDTH: 9.21%; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; MARGIN-LEFT: 0px; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; PADDING-LEFT: 0px; WIDTH: 15px; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; MARGIN-LEFT: 0px; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; PADDING-LEFT: 0px; WIDTH: 12.44%; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; MARGIN-LEFT: 0px; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">1,475,275</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; PADDING-LEFT: 0px; WIDTH: 15px; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; MARGIN-LEFT: 0px; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; PADDING-LEFT: 0px; WIDTH: 11.11%; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; MARGIN-LEFT: 0px; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+</tr>
+
+<tr style="HEIGHT: 14px">
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 45.14%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Robert J. Inglima, Jr.</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.33%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">5,061,587</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.59%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">1,237,976</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 14px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.21%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 12.44%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">1,475,275</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 11.11%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+</tr>
+
+<tr style="HEIGHT: 17px">
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 45.14%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">James S. Barnwell III</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.33%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">5,052,101</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.59%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">1,247,462</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 14px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.21%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 12.44%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">1,475,275</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 11.11%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+</tr>
+
+<tr style="HEIGHT: 16px">
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 45.14%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.33%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.59%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 14px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.21%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 12.44%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 11.11%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+</tr>
+
+<tr style="HEIGHT: 17px">
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 45.14%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">2.&#160; Advisory (non-binding) vote on executive compensation</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.33%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">5,131,447</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.59%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">1,046,617</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 14px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.21%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">121,499</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 12.44%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">1,475,275</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 11.11%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 45.14%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.33%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.59%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 14px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.21%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 12.44%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 11.11%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 45.14%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">4.&#160; Ratification of Independent Auditors</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.33%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">7,477,775</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.59%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">286,909</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 14px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.21%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">10,154</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 12.44%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">0</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 11.11%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 45.14%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.33%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.59%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 14px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.21%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 12.44%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 11.11%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 1pt; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 45.14%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">3.&#160; Advisory (non-binding) vote to approve executive compensation every</div>
+</td>
+<td style="BORDER-BOTTOM: #000000 1pt solid; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.33%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;1 Year</div>
+</td>
+<td style="PADDING-BOTTOM: 1pt; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM: #000000 1pt solid; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.59%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;2 Years</div>
+</td>
+<td style="PADDING-BOTTOM: 1pt; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 14px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM: #000000 1pt solid; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.21%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;3 Years</div>
+</td>
+<td style="PADDING-BOTTOM: 1pt; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM: #000000 1pt solid; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 12.44%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;Abstain</div>
+</td>
+<td style="PADDING-BOTTOM: 1pt; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM: #000000 1pt solid; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 11.11%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Broker Non-Votes</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 45.14%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.33%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">2,109,261</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.59%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">205,766</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 14px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 9.21%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">3,826,370</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 12.44%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">158,166</div>
+</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 15px; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">&#160;</td>
+<td style="BORDER-BOTTOM-COLOR: ; PADDING-BOTTOM: 0px; MARGIN-TOP: 0px; BORDER-TOP-COLOR: ; WIDTH: 11.11%; MARGIN-BOTTOM: 0px; HEIGHT: auto; BORDER-RIGHT-COLOR: ; VERTICAL-ALIGN: bottom; BORDER-LEFT-COLOR: ; PADDING-TOP: 0px">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">1,475,275</div>
+</td>
+</tr>
+</table>
+
+<br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold">SIGNATURE</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 36pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt">Dated:&#160; March 6, 2017</div>
+
+<table style="WIDTH: 80%; BORDER-COLLAPSE: collapse; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="z3e7e31a708f34c4582ce328fc162851d" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 866px; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 394px; VERTICAL-ALIGN: top" colspan="3">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">BARNWELL INDUSTRIES, INC.</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 1pt; WIDTH: 866px; VERTICAL-ALIGN: top">&#160;</td>
+<td style="PADDING-BOTTOM: 1pt; WIDTH: 4.6%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">By:</div>
+</td>
+<td style="BORDER-BOTTOM: #000000 1pt solid; WIDTH: 333px; VERTICAL-ALIGN: top" colspan="2">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">/s/ Russell M. Gifford</div>
+</td>
+</tr>
+
+<tr style="HEIGHT: 16px">
+<td style="WIDTH: 866px; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 4.6%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 5.32%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: -18pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-LEFT: 18pt; FONT-SIZE: 10pt">Name:</div>
+</td>
+<td style="WIDTH: 20.71%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: -18pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-LEFT: 18pt; FONT-SIZE: 10pt">Russell M. Gifford</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 866px; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 4.6%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 5.32%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: -18pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-LEFT: 18pt; FONT-SIZE: 10pt">Title:</div>
+</td>
+<td style="WIDTH: 20.71%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0.2pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Executive Vice President and<font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"><br>
+</font> Chief Financial Officer</div>
+</td>
+</tr>
+</table>
+
+<div style="MARGIN-BOTTOM: 46pt"><br>
+</div>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

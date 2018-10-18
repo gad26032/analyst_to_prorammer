@@ -1,0 +1,615 @@
+<SEC-DOCUMENT>0001437749-17-004079.txt : 20170309
+<SEC-HEADER>0001437749-17-004079.hdr.sgml : 20170309
+<ACCEPTANCE-DATETIME>20170309085245
+ACCESSION NUMBER:		0001437749-17-004079
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20170308
+ITEM INFORMATION:		Submission of Matters to a Vote of Security Holders
+FILED AS OF DATE:		20170309
+DATE AS OF CHANGE:		20170309
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BASSETT FURNITURE INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000010329
+		STANDARD INDUSTRIAL CLASSIFICATION:	WOOD HOUSEHOLD FURNITURE, (NO UPHOLSTERED) [2511]
+		IRS NUMBER:				540135270
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1126
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-00209
+		FILM NUMBER:		17676920
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PO BOX 626
+		CITY:			BASSETT
+		STATE:			VA
+		ZIP:			24055
+		BUSINESS PHONE:		5406296209
+
+	MAIL ADDRESS:	
+		STREET 1:		MAIN ST
+		STREET 2:		P O BOX 626
+		CITY:			BASSETT
+		STATE:			VA
+		ZIP:			24055
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>bset20170308b_8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD><TITLE>bset20170308b_8k.htm</TITLE>
+<!-- Created by RDG HTML Converter -->
+</HEAD>
+<BODY style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px">
+<HR style="BORDER-TOP: medium none; HEIGHT: 2px; BORDER-RIGHT: medium none; WIDTH: 100%; BORDER-BOTTOM: medium none; COLOR: #000000;  BORDER-LEFT: medium none; BACKGROUND-COLOR: #000000" align="center">
+
+<P id=PARA1 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT><FONT style="FONT-SIZE: 18pt; FONT-FAMILY: Times New Roman, Times, serif"><B>UNITED STATES </B></FONT></P>
+<P id=PARA4 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 18pt; FONT-FAMILY: Times New Roman, Times, serif"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P>
+<P id=PARA5 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>WASHINGTON, D.C. 20549</B></FONT></P>
+<P id=PARA6 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT></P>
+<HR style="BORDER-TOP: medium none; HEIGHT: 1px; BORDER-RIGHT: medium none; WIDTH: 20%; BORDER-BOTTOM: medium none; COLOR: #000000;  BORDER-LEFT: medium none; BACKGROUND-COLOR: #000000" align="center">
+
+<P id=PARA8 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA9 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 18pt; FONT-FAMILY: Times New Roman, Times, serif"><B>FORM 8-K </B></FONT></P>
+<P id=PARA10 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT></P>
+<HR style="BORDER-TOP: medium none; HEIGHT: 1px; BORDER-RIGHT: medium none; WIDTH: 20%; BORDER-BOTTOM: medium none; COLOR: #000000;  BORDER-LEFT: medium none; BACKGROUND-COLOR: #000000" align="center">
+
+<P id=PARA12 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA13 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>CURRENT REPORT </B></FONT></P>
+<P id=PARA14 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA15 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>PURSUANT TO SECTION 13 OR 15(d) OF THE </B></FONT></P>
+<P id=PARA16 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>SECURITIES EXCHANGE ACT OF 1934 </B></FONT></P>
+<P id=PARA17 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA18 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Date of Report (Date of earliest event reported) March 8, 2017</B></FONT></P>
+<P id=PARA19 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<HR style="BORDER-TOP: medium none; HEIGHT: 1px; BORDER-RIGHT: medium none; WIDTH: 20%; BORDER-BOTTOM: medium none; COLOR: #000000;  BORDER-LEFT: medium none; BACKGROUND-COLOR: #000000" align="center">
+
+<P id=PARA22 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 18pt; FONT-FAMILY: Times New Roman, Times, serif"><B>BASSETT FURNITURE INDUSTRIES, INCORPORATED </B></FONT></P>
+<P id=PARA23 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>(Exact name of registrant as specified in its charter) </B></FONT></P>
+<P id=PARA24 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<HR style="BORDER-TOP: medium none; HEIGHT: 1px; BORDER-RIGHT: medium none; WIDTH: 20%; BORDER-BOTTOM: medium none; COLOR: #000000;  BORDER-LEFT: medium none; BACKGROUND-COLOR: #000000" align="center">
+
+<P id=PARA25 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL39  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 33%; VERTICAL-ALIGN: top">
+<P id=PARA27 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>VIRGINIA</B></FONT></P></TD>
+<TD style="WIDTH: 2%; VERTICAL-ALIGN: bottom">
+<P id=PARA28 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 31%; VERTICAL-ALIGN: top">
+<P id=PARA29 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>0-209</B></FONT></P></TD>
+<TD style="WIDTH: 2%; VERTICAL-ALIGN: bottom">
+<P id=PARA30 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 32%; VERTICAL-ALIGN: top">
+<P id=PARA31 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>54-0135270</B></FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 33%; VERTICAL-ALIGN: top">
+<P id=PARA32 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>(State or other jurisdiction of</B></FONT></P>
+<P id=PARA33 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>incorporation or organization)</B></FONT></P></TD>
+<TD style="WIDTH: 2%; VERTICAL-ALIGN: bottom">
+<P id=PARA34 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 31%; VERTICAL-ALIGN: top">
+<P id=PARA35 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>(Commission File No.)</B></FONT></P></TD>
+<TD style="WIDTH: 2%; VERTICAL-ALIGN: bottom">
+<P id=PARA36 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 32%; VERTICAL-ALIGN: top">
+<P id=PARA37 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>(I.R.S. Employer</B></FONT></P>
+<P id=PARA38 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Identification No.)</B></FONT></P></TD></TR></TABLE>
+<P id=PARA40 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL48  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 48%; VERTICAL-ALIGN: top">
+<P id=PARA41 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>3525 FAIRYSTONE PARK HIGHWAY</B></FONT></P>
+<P id=PARA42 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>BASSETT, VIRGINIA</B></FONT></P></TD>
+<TD style="WIDTH: 5%; VERTICAL-ALIGN: bottom">
+<P id=PARA43 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 47%; VERTICAL-ALIGN: bottom">
+<P id=PARA44 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>24055</B></FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 48%; VERTICAL-ALIGN: top">
+<P id=PARA45 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>(Address of principal executive offices)</B></FONT></P></TD>
+<TD style="WIDTH: 5%; VERTICAL-ALIGN: bottom">
+<P id=PARA46 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 47%; VERTICAL-ALIGN: top">
+<P id=PARA47 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>(Zip Code)</B></FONT></P></TD></TR></TABLE>
+<P id=PARA49 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA50 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Registrant&#8217;s telephone number, including area code 276/629-6000 </B></FONT></P>
+<P id=PARA51 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;</FONT></P>
+<P id=PARA52 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>(Former name or former address, if changed since last report) </B></FONT></P>
+<P id=PARA53 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA54 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2 below): </FONT></P>
+<P id=PARA55 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL58  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 4%; VERTICAL-ALIGN: top">
+<P id=PARA56 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9744;</FONT></P></TD>
+<TD style="WIDTH: 96%; VERTICAL-ALIGN: top">
+<P id=PARA57 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></P></TD></TR></TABLE>
+<P id=PARA59 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL62  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 4%; VERTICAL-ALIGN: top">
+<P id=PARA60 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9744;</FONT></P></TD>
+<TD style="WIDTH: 96%; VERTICAL-ALIGN: top">
+<P id=PARA61 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></P></TD></TR></TABLE>
+<P id=PARA63 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL66  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 4%; VERTICAL-ALIGN: top">
+<P id=PARA64 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9744;</FONT></P></TD>
+<TD style="WIDTH: 96%; VERTICAL-ALIGN: top">
+<P id=PARA65 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></P></TD></TR></TABLE>
+<P id=PARA67 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL70  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 4%; VERTICAL-ALIGN: top">
+<P id=PARA68 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9744;</FONT></P></TD>
+<TD style="WIDTH: 96%; VERTICAL-ALIGN: top">
+<P id=PARA69 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></P></TD></TR></TABLE>
+<P id=PARA71 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<HR style="BORDER-TOP: medium none; HEIGHT: 2px; BORDER-RIGHT: medium none; WIDTH: 100%; BORDER-BOTTOM: medium none; COLOR: #000000;  BORDER-LEFT: medium none; BACKGROUND-COLOR: #000000" align="center">
+
+<P id=PARA77 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA159.1 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P>
+<DIV id=PGBK159  style="WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<DIV id=PGFTR159  style="WIDTH: 100%; TEXT-ALIGN: center">&nbsp;</DIV>
+<DIV id=PGNUM159  style="FONT-SIZE: 10pt; WIDTH: 100%; TEXT-ALIGN: center">&nbsp;</DIV>
+<HR style="HEIGHT: 2px; WIDTH: 100%; PAGE-BREAK-AFTER: always; COLOR: #000000" noShade>
+
+<DIV id=PGHDR159  style="WIDTH: 100%; TEXT-ALIGN: left">&nbsp;</DIV></DIV>
+<P id=PARA159.2 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT><FONT style="FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT></P>
+<TABLE id=TBL82  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 10%; VERTICAL-ALIGN: top">
+<P id=PARA80 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Item&nbsp;5.07. </FONT></P></TD>
+<TD style="WIDTH: 90%; VERTICAL-ALIGN: top">
+<P id=PARA81 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Submission of Matters to a Vote of Security Holders </FONT></P></TD></TR></TABLE>
+<P id=PARA83 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA84 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">The Company&#8217;s 2017 annual meeting of shareholders was held on March 8, 2017. As of the record date for the meeting, the Company had 10,725,012 of common stock outstanding, each of which is entitled to one vote. According to the final voting results, all director nominees were elected. </FONT></P>
+<P id=PARA87 style="MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA86 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">The voting tabulation was as follows:</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA88 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL205  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 95%; MARGIN-RIGHT: 5%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 26%; BORDER-BOTTOM: #000000 1px solid">
+<P id=PARA160 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Nominee</B></FONT></P></TD>
+<TD style="WIDTH: 4%">&nbsp; </TD>
+<TD style="WIDTH: 14%; BORDER-BOTTOM: #000000 1px solid" colSpan=2>
+<P id=PARA161 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Votes For</B></FONT></P></TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%; BORDER-BOTTOM: #000000 1px solid" colSpan=2>
+<P id=PARA162 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Votes Withheld</B></FONT></P></TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%; BORDER-BOTTOM: #000000 1px solid" colSpan=2>
+<P id=PARA163 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Votes Abstain </B></FONT></P></TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%; BORDER-BOTTOM: #000000 1px solid" colSpan=2>
+<P id=PARA164 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Broker Non-Vote</B></FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 26%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA165 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">John R. Belk</FONT></P></TD>
+<TD style="WIDTH: 4%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA166 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">8,165,127 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA167 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;192,805 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA168 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA169 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">1,541,345 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD></TR>
+<TR>
+<TD style="WIDTH: 26%; BACKGROUND-COLOR: #ffffff">
+<P id=PARA170 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Kristina Cashman</FONT></P></TD>
+<TD style="WIDTH: 4%; BACKGROUND-COLOR: #ffffff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #ffffff">
+<P id=PARA171 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">8,162,256 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #ffffff">
+<P id=PARA172 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;195,676 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #ffffff">
+<P id=PARA173 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #ffffff">
+<P id=PARA174 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">1,541,345 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp;</TD></TR>
+<TR>
+<TD style="WIDTH: 26%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA175 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Paul Fulton</FONT></P></TD>
+<TD style="WIDTH: 4%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA176 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">8,152,527 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA177 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;205,405 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA178 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA179 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">1,541,345 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD></TR>
+<TR>
+<TD style="WIDTH: 26%; BACKGROUND-COLOR: #ffffff">
+<P id=PARA180 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">George W. Henderson, III</FONT></P></TD>
+<TD style="WIDTH: 4%; BACKGROUND-COLOR: #ffffff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #ffffff">
+<P id=PARA181 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">8,162,610 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #ffffff">
+<P id=PARA182 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;195,322 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #ffffff">
+<P id=PARA183 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #ffffff">
+<P id=PARA184 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">1,541,345 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp;</TD></TR>
+<TR>
+<TD style="WIDTH: 26%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA185 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">J. Walter McDowell</FONT></P></TD>
+<TD style="WIDTH: 4%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA186 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">8,144,323 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA187 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;213,609 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA188 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA189 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">1,541,345 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD></TR>
+<TR>
+<TD style="WIDTH: 26%; BACKGROUND-COLOR: #ffffff">
+<P id=PARA190 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Robert H. Spilman, Jr.</FONT></P></TD>
+<TD style="WIDTH: 4%; BACKGROUND-COLOR: #ffffff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #ffffff">
+<P id=PARA191 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">8,124,442 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #ffffff">
+<P id=PARA192 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;233,490 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #ffffff">
+<P id=PARA193 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #ffffff">
+<P id=PARA194 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">1,541,345 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp;</TD></TR>
+<TR>
+<TD style="WIDTH: 26%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA195 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">William C. Wampler, Jr.</FONT></P></TD>
+<TD style="WIDTH: 4%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA196 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">8,135,659 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA197 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;222,273 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA198 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA199 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">1,541,345 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD></TR>
+<TR>
+<TD style="WIDTH: 26%; BACKGROUND-COLOR: #ffffff">
+<P id=PARA200 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">William C. Warden, Jr.</FONT></P></TD>
+<TD style="WIDTH: 4%; BACKGROUND-COLOR: #ffffff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #ffffff">
+<P id=PARA201 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">8,161,312 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #ffffff">
+<P id=PARA202 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;196,620 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #ffffff">
+<P id=PARA203 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #ffffff">
+<P id=PARA204 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">1,541,345 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #ffffff">&nbsp;</TD></TR></TABLE>
+<P id=PARA91 style="MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA94 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">At the annual meeting, the shareholders also voted on three proposals:</FONT></P>
+<P id=PARA95 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=MTAB97  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 18pt">&nbsp;</TD>
+<TD style="WIDTH: 18pt; VERTICAL-ALIGN: top">
+<P id=PARA98 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">1.</FONT></P></TD>
+<TD style="VERTICAL-ALIGN: top">
+<P id=PARA99 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">To approve the Bassett Furniture Industries, Incorporated 2017 Employee Stock Purchase Plan:</FONT></P></TD></TR></TABLE>
+<P id=PARA100 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA101 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">The final tabulation was as follows:</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA103 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><FONT style="FONT-SIZE: 10pt; FONT-STYLE: normal; BACKGROUND-COLOR: yellow"></FONT></FONT>&nbsp;</P>
+<TABLE id=TBL216  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 97%; MARGIN-RIGHT: 3%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 28%; BORDER-BOTTOM: #000000 1px solid">
+<P id=PARA206 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Proposal</B></FONT></P></TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%; BORDER-BOTTOM: #000000 1px solid" colSpan=2>
+<P id=PARA207 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Votes For</B></FONT></P></TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%; BORDER-BOTTOM: #000000 1px solid" colSpan=2>
+<P id=PARA208 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Votes Against</B></FONT></P></TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%; BORDER-BOTTOM: #000000 1px solid" colSpan=2>
+<P id=PARA209 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Votes Abstain</B></FONT></P></TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%; BORDER-BOTTOM: #000000 1px solid" colSpan=2>
+<P id=PARA210 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Broker Non-Vote</B></FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 28%">&nbsp; </TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%">&nbsp; </TD>
+<TD style="WIDTH: 2%">&nbsp;</TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%">&nbsp; </TD>
+<TD style="WIDTH: 2%">&nbsp;</TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%">&nbsp; </TD>
+<TD style="WIDTH: 2%">&nbsp;</TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%">&nbsp; </TD>
+<TD style="WIDTH: 2%">&nbsp;</TD></TR>
+<TR>
+<TD style="WIDTH: 28%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA211 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Employee Stock Purchase Plan</FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA212 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8,332,358 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA213 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12,708 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA214 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12,866 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA215 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1,541,345 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD></TR></TABLE>
+<P id=PARA104 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=MTAB107  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 18pt">&nbsp;</TD>
+<TD style="WIDTH: 18pt; VERTICAL-ALIGN: top">
+<P id=PARA108 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">2.</FONT></P></TD>
+<TD style="VERTICAL-ALIGN: top">
+<P id=PARA109 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Ratification of Ernst &amp; Young LLP as the Company&#8217;s Independent Registered Public Accounting Firm.</FONT></P></TD></TR></TABLE>
+<P id=PARA110 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA111 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">The final tabulation was as follows:</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA114 style="MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT>&nbsp;</P>
+<TABLE id=TBL227  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 97%; MARGIN-RIGHT: 3%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 28%; BORDER-BOTTOM: #000000 1px solid">
+<P id=PARA217 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Proposal</B></FONT></P></TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%; BORDER-BOTTOM: #000000 1px solid" colSpan=2>
+<P id=PARA218 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Votes For</B></FONT></P></TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%; BORDER-BOTTOM: #000000 1px solid" colSpan=2>
+<P id=PARA219 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Votes Against</B></FONT></P></TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%; BORDER-BOTTOM: #000000 1px solid" colSpan=2>
+<P id=PARA220 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Votes Abstain</B></FONT></P></TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%; BORDER-BOTTOM: #000000 1px solid" colSpan=2>
+<P id=PARA221 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Broker Non-Vote</B></FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 28%">&nbsp; </TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%">&nbsp; </TD>
+<TD style="WIDTH: 2%">&nbsp;</TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%">&nbsp; </TD>
+<TD style="WIDTH: 2%">&nbsp;</TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%">&nbsp; </TD>
+<TD style="WIDTH: 2%">&nbsp;</TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%">&nbsp; </TD>
+<TD style="WIDTH: 2%">&nbsp;</TD></TR>
+<TR>
+<TD style="WIDTH: 28%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA222 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Ratification of Ernst &amp; Young LLP</FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA223 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9,744,756 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA224 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;144,589 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA225 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9,932 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA226 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD></TR></TABLE>
+<P id=PARA118 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA228.1 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P>
+<DIV id=PGBK228  style="WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<DIV id=PGFTR228  style="WIDTH: 100%; TEXT-ALIGN: center">&nbsp;</DIV>
+<DIV id=PGNUM228  style="FONT-SIZE: 10pt; WIDTH: 100%; TEXT-ALIGN: center">&nbsp;</DIV>
+<HR style="HEIGHT: 2px; WIDTH: 100%; PAGE-BREAK-AFTER: always; COLOR: #000000" noShade>
+
+<DIV id=PGHDR228  style="WIDTH: 100%; TEXT-ALIGN: left">&nbsp;</DIV></DIV>
+<P id=PARA228.2 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT></P>
+<P id=PARA124 style="TEXT-ALIGN: left; MARGIN: 0pt 0pt 0pt 18pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">3. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To consider and act on an advisory vote regarding the approval of the compensation paid&nbsp;to certain executive officers.</FONT></P>
+<P id=PARA125 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA126 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">The final tabulation was as follows:</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA129 style="MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT>&nbsp;</P>
+<TABLE id=TBL239  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 97%; MARGIN-RIGHT: 3%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 28%; BORDER-BOTTOM: #000000 1px solid">
+<P id=PARA229 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Proposal</B></FONT></P></TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%; BORDER-BOTTOM: #000000 1px solid" colSpan=2>
+<P id=PARA230 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Votes For</B></FONT></P></TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%; BORDER-BOTTOM: #000000 1px solid" colSpan=2>
+<P id=PARA231 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Votes Against</B></FONT></P></TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%; BORDER-BOTTOM: #000000 1px solid" colSpan=2>
+<P id=PARA232 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Votes Abstain</B></FONT></P></TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%; BORDER-BOTTOM: #000000 1px solid" colSpan=2>
+<P id=PARA233 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Broker Non-Vote</B></FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 28%">&nbsp; </TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%">&nbsp; </TD>
+<TD style="WIDTH: 2%">&nbsp;</TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%">&nbsp; </TD>
+<TD style="WIDTH: 2%">&nbsp;</TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%">&nbsp; </TD>
+<TD style="WIDTH: 2%">&nbsp;</TD>
+<TD style="WIDTH: 2%">&nbsp; </TD>
+<TD style="WIDTH: 14%">&nbsp; </TD>
+<TD style="WIDTH: 2%">&nbsp;</TD></TR>
+<TR>
+<TD style="WIDTH: 28%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA234 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Approval of officer compensation</FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA235 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8,270,245 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA236 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;62,768 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA237 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;24,919 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp; </TD>
+<TD style="WIDTH: 14%; BACKGROUND-COLOR: #cceeff">
+<P id=PARA238 style="MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1,541,345 </FONT></P></TD>
+<TD style="WIDTH: 2%; BACKGROUND-COLOR: #cceeff">&nbsp;</TD></TR></TABLE>
+<P id=PARA133 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA134 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA135.1 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P>
+<DIV id=PGBK135  style="WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<DIV id=PGFTR135  style="WIDTH: 100%; TEXT-ALIGN: center">&nbsp;</DIV>
+<DIV id=PGNUM135  style="FONT-SIZE: 10pt; WIDTH: 100%; TEXT-ALIGN: center">&nbsp;</DIV>
+<HR style="HEIGHT: 2px; WIDTH: 100%; PAGE-BREAK-AFTER: always; COLOR: #000000" noShade>
+
+<DIV id=PGHDR135  style="WIDTH: 100%; TEXT-ALIGN: left">&nbsp;</DIV></DIV>
+<P id=PARA135.2 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA137 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Signatures</FONT></P>
+<P id=PARA138 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA139 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 36pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</FONT></P>
+<P id=PARA140 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL240  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD vAlign=top width="50%">
+<P id=PARA240.4 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=top width="3%">
+<P id=PARA240.5 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=top width="35%">
+<P id=PARA240.6 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">BASSETT FURNITURE INDUSTRIES, INCORPORATED</FONT></P></TD>
+<TD vAlign=top width="12%">
+<P id=PARA240.7 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD vAlign=top width="50%">&nbsp;</TD>
+<TD vAlign=top width="3%">&nbsp;</TD>
+<TD vAlign=top width="35%">&nbsp;</TD>
+<TD vAlign=top width="12%">&nbsp;</TD></TR>
+<TR>
+<TD vAlign=top width="50%">
+<P id=PARA240.8 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=top width="3%">
+<P id=PARA240.9 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=bottom width="35%" noWrap align=left>
+<P id=PARA240.10 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=top width="12%">
+<P id=PARA240.11 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="TEXT-ALIGN: left" vAlign=top width="50%" align=left>
+<P id=PARA240.12 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Date: March 9, 2017&nbsp;&nbsp;</FONT></P></TD>
+<TD style="TEXT-ALIGN: left" vAlign=top width="3%">
+<P id=PARA240.13 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">By: </FONT></P></TD>
+<TD style="BORDER-BOTTOM: #000000 1px solid" vAlign=top width="35%" noWrap align=left>
+<P id=PARA240.14 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">/s/&nbsp;</FONT>J. Michael Daniel</P></TD>
+<TD vAlign=top width="12%">
+<P id=PARA240.15 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD vAlign=top width="50%">
+<P id=PARA240.16 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=top width="3%">
+<P id=PARA240.17 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=top width="35%">
+<P id=PARA240.18 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">J. Michael Daniel</FONT></P></TD>
+<TD vAlign=top width="12%">
+<P id=PARA240.19 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD vAlign=top width="50%">
+<P id=PARA240.20 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=top width="3%">
+<P id=PARA240.21 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD>
+<TD vAlign=top width="35%">
+<P id=PARA240.22 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Title:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senior President - Chief Financial Officer</FONT></P></TD>
+<TD vAlign=top width="12%">
+<P id=PARA240.23 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P></TD></TR></TABLE>
+<P id=PARA152 style="TEXT-ALIGN: justify; MARGIN: 0pt 0pt 0pt 180pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 36pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA153 style="TEXT-ALIGN: justify; MARGIN: 0pt 0pt 0pt 180pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 36pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT>&nbsp;</P></BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
