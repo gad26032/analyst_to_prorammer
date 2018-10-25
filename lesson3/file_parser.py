@@ -1,7 +1,7 @@
 import os
 import glob
 
-DATA_DIR = './lesson3/test_data/filings'
+DATA_DIR = '/home/gad/wd/projects/analyst_to_prorammer/lesson3/test_data/filings'
 
 # list dir
 
@@ -36,8 +36,8 @@ rr = txt_file_extractor()
 
 g = glob.glob(os.path.join(DATA_DIR, '*/*/*.txt'))
 
-for i in g:
-    print(i)
-# find txt
+# for i in g:
+#     print(i)
+# # find txt
 
 # find files using glob
