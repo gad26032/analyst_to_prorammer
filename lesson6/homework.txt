@@ -1,0 +1,20 @@
+https://pandas.pydata.org/pandas-docs/stable/api.html#computations-descriptive-stats
+Раздел
+ Computations / Descriptive Stats
+Это вычисления и описательные статистики которые можно смотреть у Series.
+
+Соответственно эти же методы можно использовать в связке с groupby.
+
+Вот вам задание.
+- Загрузите данные вот отсюда. Это стоимость акций всеми любимой AAPL.
+    https://query1.finance.yahoo.com/v7/finance/download/AAPL?period1=1538654315&period2=1541332715&interval=1d&events=history&crumb=nMbdNPrWibC
+
+- Загрузите в датафрейм. И проанализируйте используя описательные статистики.
+  В четверг расскажите что интересного вы нашли.
+
+-Маленькая подсказка: группировать можно и по временным отрезкам.
+
+
+
+
+1. Авто
